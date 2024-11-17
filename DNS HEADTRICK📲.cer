@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>𝐃𝐧𝐬 𝐡𝐞𝐚𝐝𝐟𝐮𝐥𝐥 𝐛𝐫𝐚𝐬𝐢𝐥 🇧🇷 𝐧𝐮𝐞𝐯𝐨 𝐝𝐧𝐬 𝐚𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐝𝐨 𝐜𝐨𝐧 𝐞𝐥 𝐪𝐮𝐞 𝐩𝐨𝐝𝐫𝐚𝐬 𝐚𝐥𝐜𝐚𝐧𝐳𝐚𝐫 𝐭𝐮𝐬 𝐦𝐚𝐱𝐢𝐦𝐨𝐬 𝐥𝐢𝐦𝐢𝐭𝐞𝐬 𝐲 𝐬𝐮𝐛𝐢𝐫 𝐚 𝐠𝐫𝐚𝐧 𝐦𝐚𝐞𝐬𝐭𝐫𝐨 𝐞𝐧 𝐥𝐚 𝐧𝐮𝐞𝐯𝐚 𝐭𝐞𝐦𝐩𝐨𝐫𝐚𝐝𝐚 𝐝𝐞 𝐛𝐫 𝐨 𝐠𝐚𝐧𝐚𝐫 𝐭𝐨𝐝𝐨𝐬 𝐭𝐮𝐬 𝐞𝐧𝐟𝐫𝐞𝐧𝐭𝐚𝐦𝐢𝐞𝐧𝐭𝐨𝐬 𝐞𝐧 𝐩𝐯𝐩𝐬, 𝐞𝐥 𝐝𝐧𝐬 𝐯𝐢𝐞𝐧𝐞 𝐜𝐨𝐧 𝟔 𝐟𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬, 𝐩𝐮𝐞𝐝𝐞𝐬 𝐩𝐫𝐨𝐛𝐚𝐫 𝐥𝐚 𝐪𝐮𝐞 𝐦𝐞𝐣𝐨𝐫 𝐭𝐞 𝐟𝐮𝐧𝐜𝐢𝐨𝐧𝐞, 𝐫𝐞𝐜𝐮𝐞𝐫𝐝𝐚 𝐬𝐞𝐠𝐮𝐢𝐫𝐦𝐞 𝐞𝐧 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐲 𝐯𝐞𝐫 𝐦𝐢𝐬 𝐯𝐢𝐝𝐞𝐨𝐬 𝐲𝐚 𝐪𝐮𝐞 𝐚 𝐝𝐢𝐚𝐫𝐢𝐨 𝐬𝐮𝐛𝐨 𝐝𝐧𝐬 𝐩𝐚𝐫𝐚 𝐮𝐬𝐭𝐞𝐝𝐞𝐬,  𝐭𝐚𝐧𝐭𝐨 𝐩𝐚𝐫𝐚 𝐦𝐞𝐣𝐨𝐫𝐚𝐫 𝐭𝐮 𝐩𝐨𝐫𝐜𝐞𝐧𝐭𝐚𝐣𝐞 𝐚𝐥𝐚 𝐜𝐚𝐛𝐞𝐳𝐚 𝐜𝐨𝐦𝐨 𝐩𝐚𝐫𝐚 𝐦𝐞𝐣𝐨𝐫𝐚𝐫 𝐭𝐮 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐜𝐢𝐨𝐧 ⚙️.
+
+𝐘𝐎𝐔𝐓𝐔𝐁𝐄: 𝐈𝐍𝐄𝐒 𝐈𝐎𝐒 
+		</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iPhone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>NGOCSON-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>354871094134505</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/falleon.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>354871094134505</string>
+					<string>357663100967839</string>
+					<string>357220096123081</string>
+					<string>357220096123081</string>
+					<string>354523333604786</string>
+					<string>356389952768015</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".uncrack.list=boolen“true&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100".uncrack_SHA256withRSA_ AuthenticationMethod.list=boolen“true&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=“70-100”_on_uncrack.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".uncrack.list=“true&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on auto_cws="70-100".uncrack.dat=“true&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"NGOCSON-ANTI-CRACK-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=“70-100"_uncrack.list=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.reg-clffbasex32</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>DPI BRAZILIAN 🇧🇷</string>
+			<key>PayloadIdentifier</key>
+			<string>QlpoOTFBWSZTWVQC1rEAAJnfkdYSQAn/5D////B////wBAAgAAAYMAFYxgNVNGaRo0DIeo0aNNGQ
+GTQGEYhoDTQaponqfpNAKNPI1PSeoeT1T0hkZDI9T1DDU/VNHqAlJPU0KehGGgRkybRMRgRoMCYR
+iYiE3DCA/r7AVoiJ2Rbh8B1ERohKSPtWSE8YDxQWQ2mzLiq/Duq5E/ZaTTK4ILKmOyxoIMLAwTA4
+o2AolfqjHkYTIljYkApg0/XvCWzMXoTrkl59yqbVFa8QN94CDlVTQbYSLAyCXIvRLO2kGREEikZ/
+n75tqYhg3AwyB8Vr5VIC3W4KmEULP6F9SiwzxmfH9UQbLqmncc6DSV2QkfY4/b2ndxWzYyKZqXpt
+VHTjBd0L4reTciU/lpUiYo4/NXHXc8k9HpbBolKsjPL+WePRn3Ek8sUn2Q2+TQuEiwhZptgVdbjX
+JBFQioOD4wh/seoiGxi9b8uNsuNxibcHkxrrD3bAO7J1tkQjqEpwQadrMZacrseRjTVzSzG4cjhq
+hIXvxhHThXzxNQmrglSuZdVB4LFvDIkQfmGfgX6Yuru4BBqwvynAfxdyRThQkFQC1rE=</string>
+			<key>PayloadOrganization</key>
+			<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>000000</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>NGOCSON-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".uncrack.list=boolen“true&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100".uncrack_SHA256withRSA_ AuthenticationMethod.list=boolen“true&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=“70-100”_on_uncrack.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".uncrack.list=“true&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on
+auto_cws="70-100".uncrack.dat=“true&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"NGOCSON-ANTI-CRACK-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=“70-100"_uncrack.list=true&gt;</string>
+					<string>&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".uncrack.list=“true&gt;
+F2:TouchAndHold</string>
+					<string>NWM5ZDU2YWZiZWQxZjhmMjMxNzk5NWMyZDQ3ODM4NTE=</string>
+					<string>&lt;build:name&gt;.com.setting.auto.120-fpsexp.delay0.5.ips_NGOCSON_ANTI_CRACK_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name&gt;.com.setting.screen-scanning-frequency.auto.120-hzexp.delay0.1.ips_NGOCSON_ANTI_CRACK_SEVER_on_allow.list="true&gt;</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>AIMLOCK</string>
+			<key>PayloadIdentifier</key>
+			<string>PGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIx
+MDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFz
+ZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29k
+ZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEw
+MOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93
+X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JB
+Q0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFy
+dCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5m
+cmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09
+dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0
+dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9p
+bmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rp
+b25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKA
+nDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29t
+LmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFO
+VEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVh
+dnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29t
+LmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxp
+c3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5
+bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cu
+ZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5f
+ZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8u
+Y3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5h
+bWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhP
+QU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rf
+b25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1h
+cHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNy
+YWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2Vs
+ZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJf
+YWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxv
+Y2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRo
+X2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1
+aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAi
+S0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9p
+bXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9z
+eXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKA
+nV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2Nv
+bmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0st
+U0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZE
+ZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVl
+ZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1
+ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGlu
+ZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNy
+ZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25f
+Y29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcw
+LTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFs
+bG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEkt
+Q1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnlo
+ZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0
+cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3Ti
+gJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNf
+c2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmls
+ZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVu
+Y3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dz
+PeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KCjxidWlsZDpuYW1l
+4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1lNC4wdG91Y2hh
+bmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZpcmV0aF9hdXRv
+X2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+CjxidWlsZDpu
+YW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1lNC4wdG91
+Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZpcmV0aF9h
+dXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+CjxidWls
+ZDpuYW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1lNC4w
+dG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZpcmV0
+aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+Cjxi
+dWlsZDpuYW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1l
+NC4wdG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZp
+cmV0aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+
+CjxidWlsZDpuYW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0
+aW1lNC4wdG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJl
+ZWZpcmV0aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRy
+dWU+Cgo8YnVpbGQ6bmFtZeKAnWNvbS5hY3QuY29uZl9zZWNsZWN0X3N5bmNfc2V0
+dGluZ+KAnTEwMOKAnUtleV9hY3RfYWxsb3cuZmlsZV9jb2RlX2Fwbl9waW4tdGhl
+LWNlbnRlci10by10aGUtaGVhZC1hcmVhYmFzZTY1X2RlbGF5MC4yX29uX3NldHRp
+bWU0LjB0b3VjaGFuZGhvbGRfYXBwbWFuZ2VyX3N5cm1hcHBfY29tLmR0cy5mcmVl
+ZmlyZXRoX2F1dG9fY3dzPeKAnDcwLTEwMOKAnS51bmNyYWNrLmxpc3Q94oCcdHJ1
+ZT4KPGJ1aWxkOm5hbWXigJ1jb20uYWN0LmNvbmZfc2VjbGVjdF9zeW5jX3NldHRp
+bmfigJ0xMDDigJ1LZXlfYWN0X2FsbG93LmZpbGVfY29kZV9hcG5fcGluLXRoZS1j
+ZW50ZXItdG8tdGhlLWhlYWQtYXJlYWJhc2U2NV9kZWxheTAuMl9vbl9zZXR0aW1l
+NC4wdG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZp
+cmV0aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+
+Cgo8YnVpbGQ6bmFtZeKAnWNvbS5hY3RfY29uZl9zZWxlY3Rfc3luY19zZXR0aW5n
+4oCdMTAw4oCda2V5X2FjdF9hbGxvdy5maWxlX2NvZGVfY2FsbXhtaW5kYmFzZTY0
+X29uX2F1dG9fY3dzPSI3MC0xMDAiLnVuY3JhY2suZnpzPeKAnHRydWU+CjxidWls
+ZDpuYW1l4oCdY29tLmFjdF9jb25mX3NlbGVjdF9zeW5jX3NldHRpbmfigJ0xMDDi
+gJ1rZXlfYWN0X2FsbG93LmZpbGVfY29kZV9jYWxteG1pbmRiYXNlNjRfb25fYXV0
+b19jd3M9IjcwLTEwMCIudW5jcmFjay5menM94oCcdHJ1ZT4KPGJ1aWxkOm5hbWXi
+gJ1jb20uYWN0X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZ+KAnTEwMOKAnWtleV9h
+Y3RfYWxsb3cuZmlsZV9jb2RlX2NhbG14bWluZGJhc2U2NF9vbl9hdXRvX2N3cz0i
+NzAtMTAwIi51bmNyYWNrLmZ6cz3igJx0cnVlPgoKPGJ1aWxkOm5hbWXigJ1jb20u
+cm9uLm1pbmQtYmxvd2luZ19QSFVDX0tIQU5HIF9BTlRJX0NSQUNLX1NFVkVSPeKA
+nDE1MC03MOKAnS5hbGxvdy5maWxlX29uLmFjdD3igJx0cnVlPgo8YnVpbGQ6bmFt
+ZeKAnWNvbS5yb24ubWluZC1ibG93aW5nX1BIVUNfS0hBTkcgX0FOVElfQ1JBQ0tf
+U0VWRVI94oCcMTUwLTcw4oCdLmFsbG93LmZpbGVfb24uYWN0PeKAnHRydWU+Cjxi
+dWlsZDpuYW1l4oCdY29tLnJvbi5taW5kLWJsb3dpbmdfUEhVQ19LSEFORyBfQU5U
+SV9DUkFDS19TRVZFUj3igJwxNTAtNzDigJ0uYWxsb3cuZmlsZV9vbi5hY3Q94oCc
+dHJ1ZT4K</string>
+			<key>PayloadOrganization</key>
+			<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>888888</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>NGOCSON-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".uncrack.list=boolen“true&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100".uncrack_SHA256withRSA_ AuthenticationMethod.list=boolen“true&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=“70-100”_on_uncrack.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".uncrack.list=“true&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on
+auto_cws="70-100".uncrack.dat=“true&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"NGOCSON-ANTI-CRACK-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=“70-100"_uncrack.list=true&gt;</string>
+					<string>&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".uncrack.list=“true&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name&gt;.com.setting.auto.120-fpsexp.delay0.5.ips_NGOCSON_ANTI_CRACK_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name&gt;.com.setting.screen-scanning-frequency.auto.120-hzexp.delay0.1.ips_NGOCSON_ANTI_CRACK_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name”com.high_jjinas_ NGOCSON_TEST_REG_act.on.allow.file=“true&gt;</string>
+					<string>com.high_bostyhz_ron_NGOCSON_TEST_REG_act.on.allow.file=“true&gt;</string>
+					<string>&lt;build:name"com.analytics_root_NGOCSON-Regedit-Key_auto.cws=100"=true&gt;</string>
+					<string>&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>AIMFOV 🎯</string>
+			<key>PayloadIdentifier</key>
+			<string>UEdKMWFXeGtPbTVoYldYaWdKMWpiMjB1WVdOMExtTnZibVpmYzJWamJHVmpkRjl6ZVc1algzTmxk%0D%0ASFJwYm1maWdKMHhNRERpZ0oxTCUwRCUwQVpYbGZZV04wWDJGc2JHOTNMbVpwYkdWZlkyOWtaVjlo%0D%0AY0c1ZlJHOTFZbXhsYzJOeVpXVnVjMlZ1YzJsMGFYWnBkSGxpWVhObE5qUmYlMEQlMEFaR1ZzWVhr%0D%0Ad0xqaGZiMjVmYzJWMGRHbHRaVFF1TUhSdmRXTm9ZVzVrYUc5c1pGOWhjSEJ0WVc1blpYSmZjM2x5%0D%0AYldGd2NGOWpiMjB1JTBEJTBBWkhSekxtWnlaV1ZtYVhKbGRHaGZZWFYwYjE5amQzTTk0b0NjTnpB%0D%0AdE1UQXc0b0NkTG5WdVkzSmhZMnN1YkdsemREM2lnSngwY25WbCUwRCUwQVBnbzhZblZwYkdRNmJt%0D%0ARnRaZUtBbldOdmJTNWhZM1F1WTI5dVpsOXpaV05zWldOMFgzTjVibU5mYzJWMGRHbHVaK0tBblRF%0D%0Ad01PS0ElMEQlMEFuVXRsZVY5aFkzUmZZV3hzYjNjdVptbHNaVjlqYjJSbFgyRndibDlFYjNWaWJH%0D%0AVnpZM0psWlc1elpXNXphWFJwZG1sMGVXSmhjMlUyJTBEJTBBTkY5a1pXeGhlVEF1T0Y5dmJsOXpa%0D%0AWFIwYVcxbE5DNHdkRzkxWTJoaGJtUm9iMnhrWDJGd2NHMWhibWRsY2w5emVYSnRZWEJ3WDJOdiUw%0D%0ARCUwQWJTNWtkSE11Wm5KbFpXWnBjbVYwYUY5aGRYUnZYMk4zY3ozaWdKdzNNQzB4TUREaWdKMHVk%0D%0AVzVqY21GamF5NXNhWE4wUGVLQW5IUnklMEQlMEFkV1UrQ2p4aWRXbHNaRHB1WVcxbDRvQ2RZMjl0%0D%0ATG1GamRDNWpiMjVtWDNObFkyeGxZM1JmYzNsdVkxOXpaWFIwYVc1bjRvQ2RNVEF3JTBEJTBBNG9D%0D%0AZFMyVjVYMkZqZEY5aGJHeHZkeTVtYVd4bFgyTnZaR1ZmWVhCdVgwUnZkV0pzWlhOamNtVmxibk5s%0D%0AYm5OcGRHbDJhWFI1WW1GeiUwRCUwQVpUWTBYMlJsYkdGNU1DNDRYMjl1WDNObGRIUnBiV1UwTGpC%0D%0AMGIzVmphR0Z1WkdodmJHUmZZWEJ3YldGdVoyVnlYM041Y20xaGNIQmYlMEQlMEFZMjl0TG1SMGN5%0D%0ANW1jbVZsWm1seVpYUm9YMkYxZEc5ZlkzZHpQZUtBbkRjd0xURXdNT0tBblM1MWJtTnlZV05yTG14%0D%0AcGMzUTk0b0NjJTBEJTBBZEhKMVpUNEtQR0oxYVd4a09tNWhiV1hpZ0oxamIyMHVjMlYwZEdsdVp5%0D%0ANUpibU55WldGelpTMXRZWGhwYlhWdExXUmxkbWxqWlMxeiUwRCUwQWNHVmxaRjl2Ymw5elpYUjBh%0D%0AVzFsTkM0d2RHOTFZMmhoYm1Sb2IyeGtYMkZ3Y0cxaGJtZGxjbDl6ZVhKdFlYQndYMk52YlM1a2RI%0D%0ATXUlMEQlMEFabkpsWldacGNtVjBhRjloZFhSdlgyTjNjejNpZ0p3M01DMHhNRERpZ0owdWRXNWpj%0D%0AbUZqYXk1emJ6M2lnSngwY25WbFBnbzhZblZwJTBEJTBBYkdRNmJtRnRaVDR1WTI5dExtWndjMlY0%0D%0AY0Y5UVNGVkRYMHRJUVU1SFgwRk9WRWxmUTFKQlEwdGZVMFZXUlZJOTRvQ2NNVFV3TFRjdyUwRCUw%0D%0AQTRvQ2RMbUZzYkc5M0xtWnBiR1ZmYjI0dVlXTjBQZUtBbkhSeWRXVStDanhpZFdsc1pEcHVZVzFs%0D%0ANG9DZFkyOXRMbk5sZEhScGJtY3UlMEQlMEFTVzVqY21WaGMyVXRiV0Y0YVcxMWJTMWtaWFpwWTJV%0D%0AdGMzQmxaV1JmYjI1ZmMyVjBkR2x0WlRRdU1IUnZkV05vWVc1a2FHOXNaRjloJTBEJTBBY0hCdFlX%0D%0ANW5aWEpmYzNseWJXRndjRjlqYjIwdVpIUnpMbVp5WldWbWFYSmxkR2hmWVhWMGIxOWpkM005NG9D%0D%0AY056QXRNVEF3NG9DZCUwRCUwQUxuVnVZM0poWTJzdWMyODk0b0NjZEhKMVpUNEtQR0oxYVd4a09t%0D%0ANWhiV1UrTG1OdmJTNW1jSE5sZUhCZlVFaFZRMTlMU0VGT1IxOUIlMEQlMEFUbFJKWDBOU1FVTkxY%0D%0AMU5GVmtWU1BlS0FuREUxTUMwM01PS0FuUzVoYkd4dmR5NW1hV3hsWDI5dUxtRmpkRDNpZ0p4MGNu%0D%0AVmxQZ284JTBEJTBBWW5WcGJHUTZibUZ0WmVLQW5XTnZiUzV6WlhSMGFXNW5Ma2x1WTNKbFlYTmxM%0D%0AVzFoZUdsdGRXMHRaR1YyYVdObExYTndaV1ZrWDI5dSUwRCUwQVgzTmxkSFJwYldVMExqQjBiM1Zq%0D%0AYUdGdVpHaHZiR1JmWVhCd2JXRnVaMlZ5WDNONWNtMWhjSEJmWTI5dExtUjBjeTVtY21WbFptbHkl%0D%0AMEQlMEFaWFJvWDJGMWRHOWZZM2R6UGVLQW5EY3dMVEV3TU9LQW5TNTFibU55WVdOckxuTnZQZUtB%0D%0AbkhSeWRXVStDanhpZFdsc1pEcHVZVzFsJTBEJTBBUGk1amIyMHVabkJ6Wlhod1gxQklWVU5mUzBo%0D%0AQlRrZGZRVTVVU1Y5RFVrRkRTMTlUUlZaRlVqM2lnSnd4TlRBdE56RGlnSjB1WVd4cyUwRCUwQWIz%0D%0AY3VabWxzWlY5dmJpNWhZM1E5NG9DY2RISjFaVDRLUEdKMWFXeGtPbTVoYldYaWdKMWpiMjB1YzJW%0D%0AMGRHbHVaeTVKYm1OeVpXRnolMEQlMEFaUzF0WVhocGJYVnRMV1JsZG1salpTMXpjR1ZsWkY5dmJs%0D%0AOXpaWFIwYVcxbE5DNHdkRzkxWTJoaGJtUm9iMnhrWDJGd2NHMWhibWRsJTBEJTBBY2w5emVYSnRZ%0D%0AWEJ3WDJOdmJTNWtkSE11Wm5KbFpXWnBjbVYwYUY5aGRYUnZYMk4zY3ozaWdKdzNNQzB4TUREaWdK%0D%0AMHVkVzVqY21GaiUwRCUwQWF5NXpiejNpZ0p4MGNuVmxQZ284WW5WcGJHUTZibUZ0WlQ0dVkyOXRM%0D%0AbVp3YzJWNGNGOVFTRlZEWDB0SVFVNUhYMEZPVkVsZlExSkIlMEQlMEFRMHRmVTBWV1JWSTk0b0Nj%0D%0ATVRVd0xUY3c0b0NkTG1Gc2JHOTNMbVpwYkdWZmIyNHVZV04wUGVLQW5IUnlkV1UrQ2p4aWRXbHNa%0D%0ARHB1JTBEJTBBWVcxbDRvQ2RZMjl0TG5ObGRIUnBibWN1U1c1amNtVmhjMlV0YldGNGFXMTFiUzFr%0D%0AWlhacFkyVXRjM0JsWldSZmIyNWZjMlYwZEdsdCUwRCUwQVpUUXVNSFJ2ZFdOb1lXNWthRzlzWkY5%0D%0AaGNIQnRZVzVuWlhKZmMzbHliV0Z3Y0Y5amIyMHVaSFJ6TG1aeVpXVm1hWEpsZEdoZllYVjAlMEQl%0D%0AMEFiMTlqZDNNOTRvQ2NOekF0TVRBdzRvQ2RMblZ1WTNKaFkyc3VjMjg5NG9DY2RISjFaVDRLUEdK%0D%0AMWFXeGtPbTVoYldVK0xtTnZiUzVtJTBEJTBBY0hObGVIQmZVRWhWUTE5TFNFRk9SMTlCVGxSSlgw%0D%0ATlNRVU5MWDFORlZrVlNQZUtBbkRFMU1DMDNNT0tBblM1aGJHeHZkeTVtYVd4bCUwRCUwQVgyOXVM%0D%0AbUZqZEQzaWdKeDBjblZsUGdwamIyMHVZV3hzYjNkZlkyOXVabDl6WldOc1pXTjBYMDVCVG1sZlFV%0D%0ANVVTVjlEVWtGRFMxOVQlMEQlMEFSVlpGVWw5aFkzUmZabWxzWlY5amIyUmxYMloxYm1Oc1pXRnVZ%0D%0AMkZqYUdWZllXTndYMlpwYkdWZllYVjBiMTl6ZVhOMFpXMDlJamN3JTBEJTBBTFRFd01GOXZibDkx%0D%0AYm1OeVlXTnJMbVo2Y3dwamIyMHVZV3hzYjNkZlkyOXVabDl6WldOc1pXTjBYM041Ym1NaU1UQXdJ%0D%0AazVCVG1sZiUwRCUwQVFVNVVTVjlEVWtGRFMxOVRSVlpGVWw5aFkzUmZZV3hzYjNjdVptbHNaVjlq%0D%0AYjJSbFgyTnNaV0Z5WDJOaFkyaGxYMkZ3Ymw5aGNIQnQlMEQlMEFZVzVoWjJWeVgyRjFkRzlmWTNk%0D%0AelBlS0FuRGN3TFRFd01GOXZibDkxYm1OeVlXTnJMbVo2Y3dwamIyMHVZV04wWDJOdmJtWmZjMlZq%0D%0AJTBEJTBBYkdWamRGOXplVzVqSWpFd01DSk9RVTVwWDBGT1ZFbGZRMUpCUTB0ZlUwVldSVkpmWVdO%0D%0Ad1gyWnBiR1ZmWTI5a1pWOWpiR1ZoY2w5eSUwRCUwQWIyMWZZWEJ1WDJGd2NHMWhibUZuWlhKZllY%0D%0AVjBiMTlqZDNNOTRvQ2NOekF0TVRBd1gyOXVYM1Z1WTNKaFkyc3VabnB6Q21OdmJTNWglMEQlMEFZ%0D%0AM0JmWTI5dVpsOXpaV05zWldOMFgzTjVibU1pTVRBd0lrNUJUbWxmUVU1VVNWOURVa0ZEUzE5VFJW%0D%0AWkZVbDloWTNCZllXeHNiM2N1JTBEJTBBWm1sc1pWOWpiMlJsWDJOc1pXRnlYM0poYlY5QmNHNVNa%0D%0AWFp2Y210ZllYQndiV0Z1WVdkbGNsOWhkWFJ2WDJOM2N6M2lnSnczTUMweCUwRCUwQU1EQmZiMjVm%0D%0AZFc1amNtRmpheTVtZW5NS1kyOXRMbUZqZEY5amIyNW1YM05sWTJ4bFkzUmZjM2x1WXlJeE1EQWlU%0D%0Aa0ZPYVY5QlRsUkolMEQlMEFYME5TUVVOTFgxTkZWa1ZTWDJGamNGOW1hV3hsWDJOdlpHVmZZMnhs%0D%0AWVhKZmNtOXRYMkZ3Ymw5aGNIQnRZVzVoWjJWeVgyRjFkRzlmJTBEJTBBWTNkelBlS0FuRGN3TFRF%0D%0Ad01GOXZibDkxYm1OeVlXTnJMbVo2Y3dwamIyMHVZV3hzYjNkZlkyOXVabDl6WldOc1pXTjBYM041%0D%0AYm1NaSUwRCUwQU1UQXdJazVCVG1sZlFVNVVTVjlEVWtGRFMxOVRSVlpGVWw5aFkzUmZZV3hzYjNj%0D%0AdVptbHNaVjlqYjJSbFgyTnNaV0Z5WDJOaFkyaGwlMEQlMEFYMkZ3Ymw5aGNIQmtZWFJoWDJGMWRH%0D%0AOWZZM2R6UGVLQW5EY3dMVEV3TUY5dmJsOTFibU55WVdOckxuTnZDbU52YlM1aFkzQmZZMjl1JTBE%0D%0AJTBBWmw5elpXTnNaV04wWDNONWJtTWlNVEF3SWs1QlRtbGZRVTVVU1Y5RFVrRkRTMTlUUlZaRlVs%0D%0AOWhZM0JmWVd4c2IzY3VabWxzWlY5aiUwRCUwQWIyUmxYMk5zWldGeVgzSmhiVjlCY0c1U1pYWnZj%0D%0AbXRmWVhCd1pHRjBZVjloZFhSdlgyTjNjejNpZ0p3M01DMHhNREJmYjI1ZmRXNWolMEQlMEFjbUZq%0D%0AYXk1emJ3cGpiMjB1WVdOMFgyTnZibVpmYzJWamJHVmpkRjl6ZVc1aklqRXdNQ0pPUVU1cFgwRk9W%0D%0ARWxmUTFKQlEwdGZVMFZXJTBEJTBBUlZKZllXTndYMlpwYkdWZlkyOWtaVjlqYkdWaGNsOXliMjFm%0D%0AWVhCdVgyRndjR1JoZEdGZllYVjBiMTlqZDNNOTRvQ2NOekF0TVRBdyUwRCUwQVgyOXVYM1Z1WTNK%0D%0AaFkyc3VjMjhLWTI5dExtRmpkRjlqYjI1bVgzTmxZMnhsWTNSZmMzbHVZeUl4TURBaVRrRk9hVjlC%0D%0AVGxSSlgwTlMlMEQlMEFRVU5MWDFORlZrVlNYMkZqY0Y5bWFXeGxYMk52WkdWZlkyeGxZWEpmY205%0D%0AdFgyRndibDloY0hCa1lYUmhYMkYxZEc5ZlkzZHpQZUtBJTBEJTBBbkRjd0xURXdNRjl2Ymw5MWJt%0D%0ATnlZV05yTG5OdlBYUnlkV1VLWTI5dExtRmpkRjlqYjI1bVgzTmxZMnhsWTNSZmMzbHVZeUl4TURB%0D%0AaSUwRCUwQVRrRk9hVjlCVGxSSlgwTlNRVU5MWDFORlZrVlNYMkZqY0Y5bWFXeGxYM05sZEhScGJt%0D%0AZGZZMjlrWlY5eVpYTjBZWEpmWkdWMmFXTmwlMEQlMEFYMkZ3Y0Y5amIyMHVaSFJ6TG1aeVpXVm1h%0D%0AWEpsZEdoZllYVjBiMTlqZDNNOTRvQ2NOekF0TVRBd1gyOXVYM1Z1WTNKaFkyc3VabnB6JTBEJTBB%0D%0AQ21OdmJTNWhZM0JmWTI5dVpsOXpaV05zWldOMFgzTjVibU1pTVRBd0lrNUJUbWxmUVU1VVNWOURV%0D%0Aa0ZEUzE5VFJWWkZVbDloWTNCZiUwRCUwQVptbHNaVjl6WlhSMGFXNW5YMk52WkdWZmNtVmpiM1ps%0D%0AY25sZmMyVjBkR2x1WjE5aGNIQmZZMjl0TG1SMGN5NW1jbVZsWm1seVpXMWglMEQlMEFlRjloZFhS%0D%0AdlgyTjNjejNpZ0p3M01DMHhNREJmYjI1ZmRXNWpjbUZqYXk1bWVuTUtZMjl0TG1Gc2JHOTNYMk52%0D%0AYm1aZmMyVmpiR1ZqJTBEJTBBZEY5emVXNWpJakV3TUNKZlRrRk9hVjlCVGxSSlgwTlNRVU5MWDFO%0D%0ARlZrVlNYMkZqZEY5aGJHeHZkeTVtYVd4bFgyTnZaR1ZmWTJ4bCUwRCUwQVlYSmZZMkZqYUdWZmMz%0D%0AbHpkR1Z0WDJGd2NGOWpiMjB1WkhSekxtWnlaV1ZtYVhKbGRHaGZZWFYwYjE5amQzTTk0b0NjTnpB%0D%0AdE1UQXclMEQlMEFYMjl1WDNWdVkzSmhZMnN1Wm5wekNtTnZiUzVoWTNCZlkyOXVabDl6WldOc1pX%0D%0ATjBYM041Ym1NaU1UQXdJazVCVG1sZlFVNVVTVjlEJTBEJTBBVWtGRFMxOVRSVlpGVWw5aFkzQmZa%0D%0AbWxzWlY5elpYUjBhVzVuWDJOdlpHVmZZWEJ1WDJGalkzQjBSWGhoWTNSc2VWOWhjSEJmWTI5dCUw%0D%0ARCUwQUxtUjBjeTVtY21WbFptbHlaWFJvWDJGMWRHOWZZM2R6UGVLQW5EY3dMVEV3TUY5dmJsOTFi%0D%0AbU55WVdOckxteHBjM1FLWTI5dExtRmolMEQlMEFjRjlqYjI1bVgzTmxZMnhsWTNSZmMzbHVZMTl6%0D%0AZVhOMFpXMGlNVEF3SWs1QlRtbGZRVTVVU1Y5RFVrRkRTMTlUUlZaRlVsOWhZM0JmJTBEJTBBY21s%0D%0AamExOW1hV3hsWDJabFpXSmhjMlUyTkY5aGNIQmZZMjl0TG1SMGN5NW1jbVZsWm1seVpYUm9YMkYx%0D%0AZEc5ZlkzZHpQZUtBbkRjdyUwRCUwQUxURXdNRjl2Ymw5MWJtTnlZV05yTG5OMGNtbHVaM01LWTI5%0D%0AdExtRmpjRjlqYjI1bVgzTmxZMnhsWTNSZmMzbHVZeUl4TURBaVRrRk8lMEQlMEFhVjlCVGxSSlgw%0D%0ATlNRVU5MWDFORlZrVlNYMkZqY0Y5aGJHeHZkeTVtYVd4bFgyTnZaR1ZmY21WamIzWmxjbmxmY21G%0D%0AdFgwRndibVJoJTBEJTBBZEdGZlpHRjBZVjl6ZVhSbGJWOWhkWFJ2WDJOM2N6M2lnSnczTUMweE1E%0D%0AQmZiMjVmZFc1amNtRmpheTV6YndwamIyMHVZV04wWDJOdiUwRCUwQWJtWmZjMlZqYkdWamRGOXpl%0D%0AVzVqSWpFd01DSk9RVTVwWDBGT1ZFbGZRMUpCUTB0ZlUwVldSVkpmWVdOd1gyWnBiR1ZmYzJWMGRH%0D%0AbHUlMEQlMEFaMTlqYjJSbFgzSmxjM1JoY2w5a1pYWnBZMlZmWVhCd1gyTnNaV0Z1WDJOaFkyaGxY%0D%0AMkZ3Y0Y5amIyMHVaSFJ6TG1aeVpXVm1hWEpsJTBEJTBBZEdoZllYVjBiMTlqZDNNOTRvQ2NOekF0%0D%0ATVRBd1gyOXVYM1Z1WTNKaFkyc3VabnB6Q21OdmJTNWhZM0JmWTI5dVpsOXpaV05zWldOMCUwRCUw%0D%0AQVgzTjVibU1pTVRBd0lrNUJUbWxmUVU1VVNWOURVa0ZEUzE5VFJWWkZVbDloWTNCZlptbHNaVjl6%0D%0AWlhSMGFXNW5YMk52WkdWZmNtVmolMEQlMEFiM1psY25sZllYQndaR0YwWVY5amIyMHVaSFJ6TG1a%0D%0AeVpXVm1hWEpsYldGNFgyRjFkRzlmWTNkelBlS0FuRGN3TFRFd01GOXZibDkxJTBEJTBBYm1OeVlX%0D%0ATnJMbVo2Y3dwamIyMHVZV053WDJOdmJtWmZjMlZqYkdWamRGOXplVzVqSWpFd01DSk9RVTVwWDBG%0D%0AT1ZFbGZRMUpCUTB0ZiUwRCUwQVUwVldSVkpmWVdOd1gyWnBiR1ZmYzJWMGRHbHVaMTlqYjJSbFgy%0D%0ARndibDlCY0c1U1pYWnZjbXRGZUdGamRHeDVYeVpqY0hOelgyRnclMEQlMEFjR1JoZEdGZlkyOXRM%0D%0AbVIwY3k1bWNtVmxabWx5WlhSb1gyRjFkRzlmWTNkelBlS0FuRGN3TFRFd01GOXZibDkxYm1OeVlX%0D%0ATnJMbVJoJTBEJTBBZEFwamIyMHVZV3hzYjNkZlkyOXVabDl6WldOc1pXTjBYM041Ym1OZlpHVjJh%0D%0AV05sSWpFd01DSk9RVTVwWDBGT1ZFbGZRMUpCUTB0ZiUwRCUwQVUwVldSVkpmWVdOMFgyRnNiRzkz%0D%0ATG1acGJHVmZZMjlrWlY5c2FXSnplWE4wWlcxZmNIUm9jbVZoWkM1a2VXeHBZbDlLTkROT2VsSkMl%0D%0AMEQlMEFVbUZPVG05VFl6UlhNREJvYW1sZllYQndaR0YwWVY5amIyMHVaSFJ6TG1aeVpXVm1hWEps%0D%0AZEdoZllYVjBiMTlqZDNNOTRvQ2NOekF0JTBEJTBBTVRBd1gyOXVYM1Z1WTNKaFkyc3ViR2x6ZEFw%0D%0AamIyMHVZV053WDJOdmJtWmZjMlZqYkdWamRGOXplVzVqWDJSbGRtbGpaU0l4TURBbCUwRCUwQUls%0D%0AOUxaWGxmWVdOMFgyRnNiRzkzTG1acGJHVmZZMjlrWlY5elpYUjBhVzVuVW1WemRHOXlaVjloY0c1%0D%0AZllYVjBiMTlqZDNNOUlqY3clMEQlMEFMVEV3TUNKZmIyNHVkVzVqY21GamF5NW1lbk1LWTI5dExt%0D%0ARmpkRjlqYjI1bVgzTmxZMnhsWTNSZmMzbHVZMTlrWlhacFkyVWlNVEF3JTBEJTBBSlNKZlMyVjVY%0D%0AMkZqZEY5aGJHeHZkeTVtYVd4bFgyTnZaR1ZmYjNCekxtRndibkpsYzNSdmNtVmZZWFYwYjE5amQz%0D%0ATTlJamN3TFRFdyUwRCUwQU1DSmZiMjR1ZFc1amNtRmpheTVtZW5NS1kyOXRMbUZqY0Y5amIyNW1Y%0D%0AM05sWTJ4bFkzUmZjM2x1WTE5elpYUjBhVzVuSWpFd01DSk8lMEQlMEFRVTVwWDBGT1ZFbGZRMUpC%0D%0AUTB0ZlUwVldSVkpmWVdOMFgyRnNiRzkzTG1acGJHVmZZMjlrWlY5elpYUjBhVzVuY21WemRHRnlD%0D%0AbU52JTBEJTBBYlM1eVpYTjBiM0psTG5ObGRIUnBibWR6TG1aNmN5OURiMjVtYVdkMWNtRjBhVzl1%0D%0AQ2dwamIyMHVZWEJ3YkdVdVkyOXVabWxuZFhKaCUwRCUwQWRHbHZiaTVzYVhOMENncGpiMjB1WVhC%0D%0Ad2JHVkVibk11YzJOeWFYQjBMbU52Ym1acFozVnlZWFJwYjI0S0NtTnZiUzVPWjBSTWIyTXUlMEQl%0D%0AMEFZWEJ3YkdWRWJuTXViV0Z1WVdkbFpBb0tZMjl0TG5KbGMzUnZjbVV1YzJWMGRHbHVaeTVrWlha%0D%0AcFkyVXVabnB6Q2dwamIyMHVZWEJ3JTBEJTBBYkdVdVkyOXVabWxuZFhKaGRHbHZiaTVzYVhOMEww%0D%0ANUJUa2xmUVU1VVNWOURVa0ZEUzE5VFJWWkZVZ29LUEdKMWFXeGtPbTVoYldVaSUwRCUwQVkyOXRM%0D%0AbUZqWTNCMFgxTlBUaTFCVGxSSkxVTlNRVU5MTFZORlZrVlNYMkZzYkc5M0xteHBjM1E5TVRBd0lq%0D%0AMTBjblZsUGdvOFluVnAlMEQlMEFiR1E2Ym1GdFpTSmpiMjB1YzNaZmIzWmxjbDlUVDA0dFFVNVVT%0D%0AUzFEVWtGRFN5MVRSVlpGVWw5aFkyTmxjSFF1WkdGMFBURXlNQ0k5JTBEJTBBZEhKMVpUNEtQR0ox%0D%0AYVd4a09tNWhiV1VpWTI5dExtWmxaV0poYzJWbVpuaGlZWE5sTmpSZlUwOU9MVUZPVkVrdFExSkJR%0D%0AMHN0VTBWVyUwRCUwQVJWSmZiMjR1YzJNOU56QWlQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52%0D%0AYlM1aGJtRnNlWFJwWTNOZmNtOXZkRjlUVDA0dFFVNVUlMEQlMEFTUzFEVWtGRFN5MVRSVlpGVWw5%0D%0AaGRYUnZMbU4zY3oweE1EQWlQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52YlM1aFkyTmxjSFJm%0D%0AJTBEJTBBWkdWMmFXTmxjMTlUVDA0dFFVNVVTUzFEVWtGRFN5MVRSVlpGVWw5aGRYUnZMbk5sZEhS%0D%0AcGJtYzlNVEF3SWoxMGNuVmxQZ284WW5WcCUwRCUwQWJHUTZibUZ0WlNKamIyMHViRzlqYTNJdFpt%0D%0AWjROalJpWVhObFgxTlBUbDlCVGxSSlgwTlNRVU5MWDFORlZrVlNYMjl1WDJGc2JHOTMlMEQlMEFM%0D%0AbXhwYzNROUlqVXdNQ0k5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExuTmxiblJ2ZGkxbVpu%0D%0AaGlZWE5sTmpRdWJHbHpkRjlUJTBEJTBBVDA1ZlFVNVVTVjlEVWtGRFMxOVRSVlpGVWw5dmJsOWhi%0D%0AR3h2ZHk1c2FYTjBQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbk5sZEhScCUwRCUwQWJtY3RjblV0%0D%0AZEc5MVkyaGtaV3hoZVMwd0xtbHdjMTlUVDA1ZlFVNVVTVjlEVWtGRFMxOVRSVlpGVWw5dmJsOWhi%0D%0AR3h2ZHk1c2FYTjAlMEQlMEFQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52YlM1bllXMXpjbTlz%0D%0AYkcwdWJHbHpkRjlUVDA1ZlFVNVVTVjlEVWtGRFMxOVRSVlpGJTBEJTBBVWw5dmJsOWhiR3h2ZHk1%0D%0Ac2FYTjBQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52YlMxaFkzUmZSMjl1Wm1aaVlYTmxOalF1%0D%0AWkdGMCUwRCUwQVgxTlBUbDlCVGxSSlgwTlNRVU5MWDFORlZrVlNYMjl1WDJGc2JHOTNMbXhwYzNR%0D%0AOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaVkyOXQlMEQlMEFMbFF0UVZCT1gxTlBUbDlCVGxSSlgw%0D%0ATlNRVU5MWDFORlZrVlNYMjl1WDJGc2JHOTNMbXhwYzNROWRISjFaVDRLUEdKMWFXeGtPbTVoJTBE%0D%0AJTBBYldVaVkyOXRMbU52Ym1aZmMyVnNaV04wWHlCT1FVNUpYMU5QVGw5RFVrRkRTMTlUUlZaRlVs%0D%0AOWhZM1JmWVd4c2IzY3VabWxzWlY5aiUwRCUwQWIyUmxYMllLU1dSbGNpNW1lbk05ZEhKMVpUNEtQ%0D%0AR0oxYVd4a09tNWhiV1VpWTI5dExteHBZbk41YzNSbGJWOXdkR2h5WldGa0xtUjUlMEQlMEFiR2xp%0D%0ASUMxd1RqRTBjbmhtWWxreFdXazBRMVZMWm5VNVNEQXhVRmM1YlZwRGNEaFNNWHBtVVdrNGIyVk5U%0D%0AMVI1TTFkVWJUbENOazlSJTBEJTBBYlhCcFlqbDFRMVIyV2s5elZIcHhOSFZ0ZDFGd01rcEtNa1Jz%0D%0AV0ZveFgxTlBUbDlCVGxSSlgwTlNRVU5MWDFORlZrVlNYMjl1WDJGcyUwRCUwQWJHOTNMbXhwYzNR%0D%0AOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaVkyOXRMbVJsZG1salpWOXBjR2h2Ym1VeE15dzBYMDlV%0D%0AUzBRdFRVNVUlMEQlMEFSaTFhUkZkWlgyUnpaWFpmVTA5T1gwRk9WRWxmUTFKQlEwdGZVMFZXUlZK%0D%0AZmIyNWZZV3hzYjNjdWJHbHpkRDEwY25WbFBnbzhZblZwJTBEJTBBYkdRNmJtRnRaU0pqYjIwdVlX%0D%0ATjBMV2R2Ymw5VFQwNWZRVTVVU1Y5RFVrRkRTMTlUUlZaRlVsOXZibDloYkd4dmR5NXNhWE4wUFhS%0D%0AeSUwRCUwQWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNW9hV2RvWDJWbVptVmpkRjlrWlhacFky%0D%0AVnpYMU5QVGw5QlRsUkpYME5TUVVOTFgxTkYlMEQlMEFWa1ZTWDI5dVgzVnVZM0poWTJ0ZllXTjBM%0D%0AbVo2Y3oxMGNuVmxQZ29LUEdKMWFXeGtPbTVoYldVaVkyOXRMbkp2Ymk1c2IyTnJabDlUJTBEJTBB%0D%0AVDA1ZlFVNVVTVjlEVWtGRFMxOVRSVlpGVWw5dmJsOWpiMjVtWDNObGJHVmpkQzVoYkd4dmR5NW1h%0D%0AV3hsWDJadmJHUmxjaTVrWVhROSUwRCUwQWRISjFaVDRLQ2p4aWRXbHNaRHB1WVcxbEltTnZiUzVv%0D%0AYVdkb1gzTmxibk5tWDNKdmJsOVRUMDVmUVU1VVNWOURVa0ZEUzE5VFJWWkYlMEQlMEFVbDl2Ymw5%0D%0AamIyNW1YM05sYkdWamRDNWhiR3h2ZHk1bWFXeGxYMlp2YkdSbGNpNXNhWE4wUFhSeWRXVStDanhp%0D%0AZFdsc1pEcHVZVzFsJTBEJTBBSW1OdmJTNW9hV2RvWDJSbGRtbGpaVjlUVDA1ZlFVNVVTVjlEVWtG%0D%0ARFMxOVRSVlpGVWw5dmJpNXpZM0psYm1aaGNtMXlZWFJsUFRFeSUwRCUwQU1DSXVZV3hzYjNjdVpt%0D%0AbHNaVjltYjJSbGNpNWhZM1E5ZEhKMVpUNEtDanhpZFdsc1pEcHVZVzFsNG9DZFkyOXRMbk5sYkdW%0D%0AamRGOVQlMEQlMEFUMDVmUVU1VVNWOURVa0ZEUzE5VFJWWkZVbDlzYjJOcmRXNXBabVppWVhObE5q%0D%0AUmZiMjR1WVd4c2IzY3VabWxzWlM1c2FYTjBQZUtBJTBEJTBBbkhSeWRXWGlnSjBLQ2p4aWRXbHNa%0D%0ARHB1WVcxbDRvQ2RZMjl0TG1GamRGOGdDbE5QVGw5QlRsUkpYME5TUVVOTFgxTkZWa1ZTWDJacyUw%0D%0ARCUwQVpYaHNiMk5yWmk1aGJHeHZkeTVtYVd4bFgyOXVMbVJoZEQzaWdKeDBjblZsQ2dvOFluVnBi%0D%0AR1E2Ym1GdFplS0FuV052YlM1eWIyNHUlMEQlMEFaR1ZzWVhsZklGTlBUbDlCVGxSSlgwTlNRVU5M%0D%0AWDFORlZrVlM0b0NkTVRBd0xUY3c0b0NkTG1Gc2JHOTNMbVpwYkdWZmIyNHVZV04wJTBEJTBBUGVL%0D%0AQW5IUnlkV1VLQ2p4aWRXbHNaRHB1WVcxbDRvQ2RZMjl0TG1ocFoyaGZaV1ptWldOMFgyUmxkbWxq%0D%0AWlhOZlUwOU9YMEZPVkVsZiUwRCUwQVExSkJRMHRmVTBWV1JWSXRaR1ZzWVhrdVlXeHNiM2N1Wm1s%0D%0Ac1pWOWpiMlJsTG1GamREM2lnSngwY25WbENnbzhZblZwYkdRNmJtRnQlMEQlMEFaZUtBbldOdmJT%0D%0ANW9hV2RvWDJWbVptVmpkRjlrWlhacFkyVmZVMDlPWDBGT1ZFbGZRMUpCUTB0ZlUwVldSVkl0YzJW%0D%0AdWMybGZZV04wJTBEJTBBWDJGc2JHOTNMbVpwYkdWZlkyOWtaUzVoY0c0OUluUnlkV1VLUEdKMWFX%0D%0AeGtPbTVoYldVaVkyOXRMbWhwWjJoZklIQmxjbVp2Y20xaCUwRCUwQWJtTmxYM0J5YjJacGJHVmZV%0D%0AMDlPWDBGT1ZFbGZRMUpCUTB0ZlUwVldSVkl0YzJWdVptWmlZWE5sTmpSZmVtbHdYMkZzYkc5M0xt%0D%0AWnAlMEQlMEFiR1ZmWTI5a1pUMGlkSEoxWlFvOFluVnBiR1E2Ym1GdFpTSmpiMjB1YUdsbmFGOW1k%0D%0AVzVqZEdsdmJsOXliMjVmVTA5T1gwRk9WRWxmJTBEJTBBUTFKQlEwdGZVMFZXUlZJdGMyVnVjMlpt%0D%0AWW1GelpUWTBMVzl1WDJGc2JHOTNMbVpwYkdWZlJrOUVSVkpmWTI5a1pTNXNhWE4wUFNKMCUwRCUw%0D%0AQWNuVmxDanhpZFdsa09tNWhiV1VpWTI5dExteHBZbk41YzNSbGJWOXdkR2h5WldGa0xtUjViR2xp%0D%0ATFdocFoyaGZJR1oxYm1OMGFXOXUlMEQlMEFYMU5QVGw5QlRsUkpYME5TUVVOTFgxTkZWa1ZTWDJG%0D%0Aa2RDNWhiR3h2ZHk1bWFXeGxYMk52WkdVdWMyOWZiMjR0ZVhSdE9WQTVOVmh5JTBEJTBBZW1aTWEy%0D%0AbG9Vbmc5SW5SeWRXVUtDanhpZFdsc1pEcHVZVzFsSW1OdmJTNXBibU55WldGelpWOWxabVpsWTNS%0D%0AZlUwOU9YMEZPVkVsZiUwRCUwQVExSkJRMHRmVTBWV1JWSXRjbTl1TG14cFoyaDBiV2x1WkdabVlt%0D%0ARnpaVFkwWDI5dUxtUmhkRjloYkd4dmR5NUJVRTVmUms5TVJFVlMlMEQlMEFYMk52WkdVOUluUnlk%0D%0AV1VLUEdKMWFXeGtPbTVoYldVaVkyOXRMbWhwWjJoZlpXWm1aV04wWDFOUFRsOUJUbFJKWDBOU1FV%0D%0ATkxYMU5GJTBEJTBBVmtWU0xXeHBZbk41YzNSbGJWOXdkR2h5WldGa0xtUjViR2xpWHlCU1VVTXpO%0D%0AM2RpWnpkQk5qbFlOa1ZhV2xOVmJHSnBOM1Y0WkhacyUwRCUwQVpXRWdabVppWVhObE5qUmZiMjR1%0D%0AWkdGMExtRnNiRzkzWDJOdlpHVTlJblJ5ZFdVS1BHSjFhV2xzWkRwdVlXMWxJbU52YlM1cGJtTnkl%0D%0AMEQlMEFaV0Z6WlY5bFptWmxZM1JmVTA5T1gwRk9WRWxmUTFKQlEwdGZVMFZXUlZJdGNtOXVMbVJs%0D%0AYkdGNUlqRXdNQzAwTUNKZmIyNHVZV04wJTBEJTBBTG1Gc2JHOTNYMk52WkdVOUluUnlkV1VLUEdK%0D%0AMWFXeGtPbTVoYldYaWdKMWpiMjB1YzJWc1pXTjBYMU5QVGw5QlRsUkpYME5TUVVOTCUwRCUwQVgx%0D%0ATkZWa1ZTWDJ4dlkydDFibWxtWm1KaGMyVTJORjl2Ymk1aGJHeHZkeTVtYVd4bExteHBjM1E5NG9D%0D%0AY2RISjFaZUtBblFvOFluVnAlMEQlMEFiR1E2Ym1GdFplS0FuV052YlM1aFkzUmZJQXBUVDA1ZlFV%0D%0ANVVTVjlEVWtGRFMxOVRSVlpGVWw5bWJHVjRiRzlqYTJZdVlXeHNiM2N1JTBEJTBBWm1sc1pWOXZi%0D%0AaTVrWVhROTRvQ2NkSEoxWlFvOFluVnBiR1E2Ym1GdFplS0FuV052YlM1eWIyNHVaR1ZzWVhsZklG%0D%0ATlBUbDlCVGxSSiUwRCUwQVgwTlNRVU5MWDFORlZrVlM0b0NkTVRBd0xUY3c0b0NkTG1Gc2JHOTNM%0D%0AbVpwYkdWZmIyNHVZV04wUGVLQW5IUnlkV1UlM0Q%3D</string>
+			<key>PayloadOrganization</key>
+			<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>222222</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>NGOCSON-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+					<string>&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;</string>
+					<string>&lt;build:name"com.feebaseffxbase64_NGOCSON-Regedit-Key_on.sc=70"=true&gt;
+&lt;build:name"com.feebaseffxbase64_NGOCSON-Regedit-Key_on.sc=70"=true&gt;
+&lt;build:name"com.feebaseffxbase64_NGOCSON-Regedit-Key_on.sc=70"=true&gt;
+&lt;build:name"com.feebaseffxbase64_NGOCSON-Regedit-Key_on.sc=70"=true&gt;</string>
+					<string>&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;
+&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;
+&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;</string>
+					<string>&lt;build:name"com.act_ffxbase64_NGOCSON-Regedit-Key_adt_allow.list=10"=true&gt;
+&lt;build:name"com.act_ffxbase64_NGOCSON-Regedit-Key_adt_allow.list=10"=true&gt;</string>
+					<string>&lt;build:name"com.feebasex64.list_NGOCSON-Regedit-Key_allow.list=60"=true&gt;
+&lt;build:name"com.feebasex64.list_NGOCSON-Regedit-Key_allow.list=60"=true&gt;</string>
+					<string>&lt;build:name"com.adt_xbaseff64.dat_NGOCSON-Regedit-Key_act.list=1440"=true&gt;</string>
+					<string>&lt;build:name”com.libsystem_pthread.dylib -Pre9M76X3pyLNQCUO6.select.on_allow.file.list=“true&gt;
+&lt;build:name”com.libsystem_pthread.dylib -Pre9M76X3pyLNQCUO6.select.on_allow.file.list=“true&gt;
+&lt;build:name”com.libsystem_pthread.dylib -Pre9M76X3pyLNQCUO6.select.on_allow.file.list=“true&gt;</string>
+					<string>com.high_effect_device.target_lockffbase64_NGOCSON_TEST_REG_select.on.allow.file=“true&gt;
+com.high_effect_device.target_lockffbase64_NGOCSON_TEST_REG_select.on.allow.file=“true&gt;</string>
+					<string>&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>DPI 850</string>
+			<key>PayloadIdentifier</key>
+			<string>U0RSelNVRk9WekJFTWxsQlFTc3hWbE15TjJKTlFrUk9NbkZtVVVGVmNWcHNiVkV6T1ZNM0wyOXJR%0D%0AbUZLTUZkQ04yZDVZVzlwZHpKTiUwRCUwQWEyeFJiRU55TjA1TU1VeE1iR0ZUU1dsV1lnMEtVMDR4%0D%0AUmxWNFVVWlFRbk5wVFRJdlpXWk9OMGwzV0hkRVlXZE1lVzVMTlhwRVRFcHolMEQlMEFhRlZ2ZVZN%0D%0AMFFXOWhTMnhETVdGcGVsWjZRVWswVTNoS1FYWk9jVWMzTkhkb2RFVnpiVU5SZWcwS1Iwd3JUbTk2%0D%0AYVdGQ2JrRjVibE5VJTBEJTBBZDB4SlEzWlZabmd6Vm5CVlMxTmtNMHR1TDBsTmFDOTBVRVJDTDFK%0D%0AbUwxSlRUVWszTW1kd1ZVVktWa2RMYzJwWVExZERaMmRLVFcxSiUwRCUwQVJFRTRRZzBLTWpGTFVs%0D%0AUmxRbXBMVmt4SmFFVkxjWE53TTIxaVQweEpNRWxaSzBwbWVGZGpiMWxoTkRsUVFsZGtTVzVhUmxa%0D%0AU05rUkwlMEQlMEFhMHhCVjI1VVRGWmpValpyUzJwd09IRlNhMFpJV2t3eFV3MEtWRFpOY1VWaWNr%0D%0AOUVLMGhWZDJjeVRsUnRia3BIV2xWVFMxUktkellyJTBEJTBBZUV0QlNrNXBZVE53ZVRRMVFuUlJa%0D%0AVTh6VUhKRVlYVmxhMEpGYzNodWJUbHhaMkoyY1dRM05tbDNUV1JKYncwS2QzWmhjVnBhU1ZGWCUw%0D%0ARCUwQU9FMTFORmxDV210cVZYVlFSRk5QY2swclNVcFphazExVG5kbmFHdHNOREpRV2xSdWRFWnBU%0D%0AMFZ6ZEZGVmNIRnBiMndyUTNKVU1WVjIlMEQlMEFiRzFMSzNoV1pISkJPUTBLWjJWMU1WQjNPRE5a%0D%0AWTJOaksyNXJNSGhISzJ4dVpGSTNhSGh0TjB4bldGWnFjbFpZTXpGQlZXYzRWVmRLJTBEJTBBUkhO%0D%0AdGNFbFpUMEoyTVZaM2EzSmhSbkpYWjJKdVZHWjVSM0ZZTWpCcVN3MEtkaXM0WkdOSWRVOTBTa1ZG%0D%0AWXpGdlkzcHRWa2d6V2s1RyUwRCUwQVREaE1kRVZTVWpCc1pFcFRTVWxZZWsxT00zRjJkME5FT1ZC%0D%0AYWJWbG1UWFZWWjFWUlZtNWxZMlJZYlN0VmJsRXhkWGRSU2cwS1ZFMDMlMEQlMEFka3h1TTNKaVVY%0D%0ARk5jamhDYTBGekt5OW1VRFYzTW1KcGEyWlpRMlJwV1dKMFJpdG5RbTVZWWpaemRsZFNUMFZXWW1w%0D%0AQ1FWVlVRMFZGJTBEJTBBYmtoVllrOUJXbkYxZEhSR05ITnRhUTBLVkdGNGFYQnROa3hJVTJOUlIy%0D%0AZzViak5XUjNoV1NFdGhhbTV1V25rMmNGWkhWbVJWZFRSQiUwRCUwQVVtWmhlWEp0T1dSRU1uaDFN%0D%0ASEJHWVV4dVMwTXdTbmgzTjBaSVEwVlhZVWN2U0RFM2FBMEtNMG8xZVc1Qk5FeHNiSFppVjAxMWJs%0D%0AY3clMEQlMEFkbUZqV1dScGRWbEpPVEEwWVd0MFRuRkZia2t3U0doRlNuazRNR3RPT0ZKdlNsaDBh%0D%0AV2hQTkN0NFNGcERlbHBWYkhGSmNHWkNPV05ZJTBEJTBBT1EwS1FUTm9PSFZNT1dWWWFYY3JURzA0%0D%0ATDFoa09EaElkSFp1UzA5NmJXUjNkemwzWXpOWWVHTm5NRVpOZVVSVldYRXlPRGhzTUVociUwRCUw%0D%0AQVZVSlhlaTh2TWtGaVZGRlBXSEpKU0d0VVVrUkNTdzBLVW1wU09YQXpPSHBqYkRaeFQxWXphMjVD%0D%0AUjBGTGQxUmxWVEZNT1RZdk9VdEslMEQlMEFlblphZVZVMU1uTnlPWFJRZDBWTFdVNVhjRUZCTkVG%0D%0AQlFUMDlDZ284WW5WcGJHUTZibUZ0WlNKamIyMHVabVZsWW1GelpYZzJOQzVzJTBEJTBBYVhOMFBU%0D%0ARXlNQ0k5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExtWmxaV0poYzJWNE5qUXViR2x6ZEQw%0D%0AeE1qQWlQWFJ5ZFdVKyUwRCUwQUNqeGlkV2xzWkRwdVlXMWxJbU52YlM1bVpXVmlZWE5sZURZMExt%0D%0AeHBjM1E5TVRJd0lqMTBjblZsUGdvOFluVnBiR1E2Ym1GdFpTSmolMEQlMEFiMjB1Wm1WbFltRnpa%0D%0AWGcyTkM1c2FYTjBQVEV5TUNJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaVkyOXRMbVpsWldKaGMy%0D%0AVjROalF1JTBEJTBBYkdsemREMHhNakFpUFhSeWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNW1a%0D%0AV1ZpWVhObGVEWTBMbXhwYzNROU1USXdJajEwY25WbCUwRCUwQVBnbzhZblZwYkdRNmJtRnRaU0pq%0D%0AYjIwdVptVmxZbUZ6WlhnMk5DNXNhWE4wUFRFeU1DSTlkSEoxWlQ0S1BHSjFhV3hrT201aGJXVWkl%0D%0AMEQlMEFZMjl0TG1abFpXSmhjMlY0TmpRdWJHbHpkRDB4TWpBaVBYUnlkV1UrQ2p4aWRXbHNaRHB1%0D%0AWVcxbEltTnZiUzVtWldWaVlYTmxlRFkwJTBEJTBBTG14cGMzUTlNVEl3SWoxMGNuVmxQZ284WW5W%0D%0AcGJHUTZibUZ0WlNKamIyMHVabVZsWW1GelpYZzJOQzVzYVhOMFBURXlNQ0k5ZEhKMSUwRCUwQVpU%0D%0ANEtQR0oxYVd4a09tNWhiV1VpY205c2JDMXpkSEJmWm1aMGFHSmhjMlY0TmpSZmIzWmxjbU5zYjJO%0D%0AckxtRmpZM0JsZEM1bWFXeGwlMEQlMEFMbUZzYkc5M0xteHBjM1E5TVRRME1DSTlkSEoxWlQ0S1BH%0D%0ASjFhV3hrT201aGJXVWljbTlzYkMxemRIQmZabVowYUdKaGMyVjROalJmJTBEJTBBYjNabGNtTnNi%0D%0AMk5yTG1GalkzQmxkQzVtYVd4bExtRnNiRzkzTG14cGMzUTlNVFEwTUNJOWRISjFaVDRLUEdKMWFX%0D%0AeGtPbTVoYldVaSUwRCUwQWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZiM1psY21Oc2IyTnJM%0D%0AbUZqWTNCbGRDNW1hV3hsTG1Gc2JHOTNMbXhwYzNROU1UUTAlMEQlMEFNQ0k5ZEhKMVpUNEtQR0ox%0D%0AYVd4a09tNWhiV1VpY205c2JDMXpkSEJmWm1aMGFHSmhjMlY0TmpSZmIzWmxjbU5zYjJOckxtRmpZ%0D%0AM0JsJTBEJTBBZEM1bWFXeGxMbUZzYkc5M0xteHBjM1E5TVRRME1DSTlkSEoxWlQ0S1BHSjFhV3hr%0D%0AT201aGJXVWljbTlzYkMxemRIQmZabVowYUdKaCUwRCUwQWMyVjROalJmYjNabGNtTnNiMk5yTG1G%0D%0AalkzQmxkQzVtYVd4bExtRnNiRzkzTG14cGMzUTlNVFEwTUNJOWRISjFaVDRLUEdKMWFXeGslMEQl%0D%0AMEFPbTVoYldVaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZiM1psY21Oc2IyTnJMbUZqWTNC%0D%0AbGRDNW1hV3hsTG1Gc2JHOTNMbXhwJTBEJTBBYzNROU1UUTBNQ0k5ZEhKMVpUNEtQR0oxYVd4a09t%0D%0ANWhiV1VpY205c2JDMXpkSEJmWm1aMGFHSmhjMlY0TmpSZmIzWmxjbU5zYjJOciUwRCUwQUxtRmpZ%0D%0AM0JsZEM1bWFXeGxMbUZzYkc5M0xteHBjM1E5TVRRME1DSTlkSEoxWlQ0S1BHSjFhV3hrT201aGJX%0D%0AVWljbTlzYkMxemRIQmYlMEQlMEFabVowYUdKaGMyVjROalJmYjNabGNtTnNiMk5yTG1GalkzQmxk%0D%0AQzVtYVd4bExtRnNiRzkzTG14cGMzUTlNVFEwTUNJOWRISjFaVDRLJTBEJTBBUEdKMWFXeGtPbTVo%0D%0AYldVaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZiM1psY21Oc2IyTnJMbUZqWTNCbGRDNW1h%0D%0AV3hsTG1GcyUwRCUwQWJHOTNMbXhwYzNROU1UUTBNQ0k5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1Vp%0D%0AY205c2JDMXpkSEJmWm1aMGFHSmhjMlY0TmpSZmIzWmwlMEQlMEFjbU5zYjJOckxtRmpZM0JsZEM1%0D%0AbWFXeGxMbUZzYkc5M0xteHBjM1E5TVRRME1DSTlkSEoxWlQ0S1BHSjFhV3hrT201aGJXVWljbTlz%0D%0AJTBEJTBBYkMxemRIQmZabVowYUdKaGMyVjROalJmYjNabGNtTnNiMk5yTG1GalkzQmxkQzVtYVd4%0D%0AbExtRnNiRzkzTG14cGMzUTlNVFEwTUNJOSUwRCUwQWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaWNt%0D%0AOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZZV3hzWTI5dVppNWhZMk53WlhRdVptbHMlMEQlMEFa%0D%0AUzVoWTNRdWJHbHpkRDAwT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaWNtOXNiQzF6ZEhCZlpt%0D%0AWjBhR0poYzJWNE5qUmZZV3hzJTBEJTBBWTI5dVppNWhZMk53WlhRdVptbHNaUzVoWTNRdWJHbHpk%0D%0ARDAwT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaWNtOXNiQzF6ZEhCZiUwRCUwQVptWjBhR0po%0D%0AYzJWNE5qUmZZV3hzWTI5dVppNWhZMk53WlhRdVptbHNaUzVoWTNRdWJHbHpkRDAwT0NJOWRISjFa%0D%0AVDRLUEdKMWFXeGslMEQlMEFPbTVoYldVaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZZV3hz%0D%0AWTI5dVppNWhZMk53WlhRdVptbHNaUzVoWTNRdWJHbHpkRDAwJTBEJTBBT0NJOWRISjFaVDRLUEdK%0D%0AMWFXeGtPbTVoYldVaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZZV3hzWTI5dVppNWhZMk53%0D%0AWlhRdSUwRCUwQVptbHNaUzVoWTNRdWJHbHpkRDAwT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldV%0D%0AaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmYlMEQlMEFZV3hzWTI5dVppNWhZMk53WlhRdVpt%0D%0AbHNaUzVoWTNRdWJHbHpkRDAwT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaWNtOXNiQzF6JTBE%0D%0AJTBBZEhCZlptWjBhR0poYzJWNE5qUmZZV3hzWTI5dVppNWhZMk53WlhRdVptbHNaUzVoWTNRdWJH%0D%0AbHpkRDAwT0NJOWRISjFaVDRLUEdKMSUwRCUwQWFXeGtPbTVoYldVaWNtOXNiQzF6ZEhCZlptWjBh%0D%0AR0poYzJWNE5qUmZZV3hzWTI5dVppNWhZMk53WlhRdVptbHNaUzVoWTNRdWJHbHolMEQlMEFkRDAw%0D%0AT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNE5qUmZZ%0D%0AV3hzWTI5dVppNWhZMk53JTBEJTBBWlhRdVptbHNaUzVoWTNRdWJHbHpkRDAwT0NJOWRISjFaVDRL%0D%0AUEdKMWFXeGtPbTVoYldVaWNtOXNiQzF6ZEhCZlptWjBhR0poYzJWNCUwRCUwQU5qUmZZV3hzWTI5%0D%0AdVppNWhZMk53WlhRdVptbHNaUzVoWTNRdWJHbHpkRDAwT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVo%0D%0AYldVaVkyOXQlMEQlMEFMbWgwWm5CeWIzVnVaQzE0WW1GelpUWTBMbUZqWTNCbGRDNW1hV3hsTG1G%0D%0AamRDNWtZWFE5TkRnaVBYUnlkV1UrQ2p4aWRXbHNaRHB1JTBEJTBBWVcxbEltTnZiUzVvZEdad2Nt%0D%0AOTFibVF0ZUdKaGMyVTJOQzVoWTJOd1pYUXVabWxzWlM1aFkzUXVaR0YwUFRRNElqMTBjblZsUGdv%0D%0AOCUwRCUwQVluVnBiR1E2Ym1GdFpTSmpiMjB1YUhSbWNISnZkVzVrTFhoaVlYTmxOalF1WVdOamNH%0D%0AVjBMbVpwYkdVdVlXTjBMbVJoZEQwME9DSTklMEQlMEFkSEoxWlQ0S1BHSjFhV3hrT201aGJXVWlZ%0D%0AMjl0TG1oMFpuQnliM1Z1WkMxNFltRnpaVFkwTG1GalkzQmxkQzVtYVd4bExtRmpkQzVrJTBEJTBB%0D%0AWVhROU5EZ2lQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52YlM1b2RHWndjbTkxYm1RdGVHSmhj%0D%0AMlUyTkM1aFkyTndaWFF1Wm1scyUwRCUwQVpTNWhZM1F1WkdGMFBUUTRJajEwY25WbFBnbzhZblZw%0D%0AYkdRNmJtRnRaU0pqYjIwdWFIUm1jSEp2ZFc1a0xYaGlZWE5sTmpRdVlXTmolMEQlMEFjR1YwTG1a%0D%0AcGJHVXVZV04wTG1SaGREMDBPQ0k5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExtaDBabkJ5%0D%0AYjNWdVpDMTRZbUZ6JTBEJTBBWlRZMExtRmpZM0JsZEM1bWFXeGxMbUZqZEM1a1lYUTlORGdpUFhS%0D%0AeWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNW9kR1p3Y205MSUwRCUwQWJtUXRlR0poYzJVMk5D%0D%0ANWhZMk53WlhRdVptbHNaUzVoWTNRdVpHRjBQVFE0SWoxMGNuVmxQZ284WW5WcGJHUTZibUZ0WlNK%0D%0AamIyMHUlMEQlMEFhSFJtY0hKdmRXNWtMWGhpWVhObE5qUXVZV05qY0dWMExtWnBiR1V1WVdOMExt%0D%0AUmhkRDAwT0NJOWRISjFaVDRLUEdKMWFXeGtPbTVoJTBEJTBBYldVaVkyOXRMbWgwWm5CeWIzVnVa%0D%0AQzE0WW1GelpUWTBMbUZqWTNCbGRDNW1hV3hsTG1GamRDNWtZWFE5TkRnaVBYUnlkV1UrQ2p4aSUw%0D%0ARCUwQWRXbHNaRHB1WVcxbEltTnZiUzVqYkdWaGNsOWpZV05vWlY5aGNHNWZZWEJ3YldGdVlXZGxj%0D%0AbUZqWTNCbGRDNW1hV3hsTG1Gc2JHOTMlMEQlMEFMbU4zY3owNE1DSTlkSEoxWlQ0S1BHSjFhV3hr%0D%0AT201aGJXVWlZMjl0TG1Oc1pXRnlYMk5oWTJobFgyRndibDloY0hCdFlXNWhaMlZ5JTBEJTBBWVdO%0D%0AamNHVjBMbVpwYkdVdVlXeHNiM2N1WTNkelBUZ3dJajEwY25WbFBnbzhZblZwYkdRNmJtRnRaU0pq%0D%0AYjIwdVkyeGxZWEpmWTJGaiUwRCUwQWFHVmZZWEJ1WDJGd2NHMWhibUZuWlhKaFkyTndaWFF1Wm1s%0D%0Ac1pTNWhiR3h2ZHk1amQzTTlPREFpUFhSeWRXVStDanhpZFdsc1pEcHUlMEQlMEFZVzFsSW1OdmJT%0D%0ANWpiR1ZoY2w5allXTm9aVjloY0c1ZllYQndiV0Z1WVdkbGNtRmpZM0JsZEM1bWFXeGxMbUZzYkc5%0D%0AM0xtTjNjejA0JTBEJTBBTUNJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldVaVkyOXRMbU5zWldGeVgy%0D%0ATmhZMmhsWDJGd2JsOWhjSEJ0WVc1aFoyVnlZV05qY0dWMCUwRCUwQUxtWnBiR1V1WVd4c2IzY3VZ%0D%0AM2R6UFRnd0lqMTBjblZsUGdvOFluVnBiR1E2Ym1GdFpTSmpiMjB1WTJ4bFlYSmZZMkZqYUdWZllY%0D%0AQnUlMEQlMEFYMkZ3Y0cxaGJtRm5aWEpoWTJOd1pYUXVabWxzWlM1aGJHeHZkeTVqZDNNOU9EQWlQ%0D%0AWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52JTBEJTBBYlM1amJHVmhjbDlqWVdOb1pWOWhjRzVm%0D%0AWVhCd2JXRnVZV2RsY21GalkzQmxkQzVtYVd4bExtRnNiRzkzTG1OM2N6MDRNQ0k5ZEhKMSUwRCUw%0D%0AQVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExtTnNaV0Z5WDJOaFkyaGxYMkZ3Ymw5aGNIQnRZVzVo%0D%0AWjJWeVlXTmpjR1YwTG1acGJHVXUlMEQlMEFZV3hzYjNjdVkzZHpQVGd3SWoxMGNuVmxQZ284WW5W%0D%0AcGJHUTZibUZ0WlNKamIyMHVZMnhsWVhKZlkyRmphR1ZmWVhCdVgyRndjRzFoJTBEJTBBYm1GblpY%0D%0ASmhZMk53WlhRdVptbHNaUzVoYkd4dmR5NWpkM005T0RBaVBYUnlkV1UrQ2p4aWRXbHNaRHB1WVcx%0D%0AbEltTnZiUzVqYkdWaCUwRCUwQWNsOWpZV05vWlY5aGNHNWZZWEJ3YldGdVlXZGxjbUZqWTNCbGRD%0D%0ANW1hV3hsTG1Gc2JHOTNMbU4zY3owNE1DSTlkSEoxWlQ0S1BHSjElMEQlMEFhV3hrT201aGJXVWlZ%0D%0AMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnlaV1ZtYVhKbGRHZ3VZV05qY0dWMExt%0D%0AWnBiR1V1JTBEJTBBWVd4c2IzY3VabnB6UFRrd0lqMTBjblZsUGlBS1BHSjFhV3hrT201aGJXVWlZ%0D%0AMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSeiUwRCUwQUxtWnlaV1ZtYVhKbGRHZ3VZV05q%0D%0AY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBjblZsUGlBS1BHSjFhV3hrT201aGJXVWkl%0D%0AMEQlMEFZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnlaV1ZtYVhKbGRHZ3VZV05q%0D%0AY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6JTBEJTBBUFRrd0lqMTBjblZsUGlBS1BHSjFhV3hrT201%0D%0AaGJXVWlZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnlaV1ZtYVhKbCUwRCUwQWRH%0D%0AZ3VZV05qY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBjblZsUGlBS1BHSjFhV3hrT201%0D%0AaGJXVWlZMjl0TG5KbFkyOTIlMEQlMEFaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnlaV1ZtYVhKbGRH%0D%0AZ3VZV05qY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBjblZsJTBEJTBBUGlBS1BHSjFh%0D%0AV3hrT201aGJXVWlZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnlaV1ZtYVhKbGRH%0D%0AZ3VZV05qY0dWMCUwRCUwQUxtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBjblZsUGlBS1BHSjFh%0D%0AV3hrT201aGJXVWlZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWolMEQlMEFiMjB1WkhSekxtWnlaV1Zt%0D%0AYVhKbGRHZ3VZV05qY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBjblZsUGlBS1BHSjFh%0D%0AV3hrJTBEJTBBT201aGJXVWlZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnlaV1Zt%0D%0AYVhKbGRHZ3VZV05qY0dWMExtWnBiR1V1WVd4cyUwRCUwQWIzY3VabnB6UFRrd0lqMTBjblZsUGlB%0D%0AS1BHSjFhV3hrT201aGJXVWlZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxtWnklMEQl%0D%0AMEFaV1ZtYVhKbGRHZ3VZV05qY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBjblZsUGlB%0D%0AS1BHSjFhV3hrT201aGJXVWlZMjl0JTBEJTBBTG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxt%0D%0AWnlaV1ZtYVhKbGRHZ3VZV05qY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrdyUwRCUwQUlqMTBj%0D%0AblZsUGlBS1BHSjFhV3hrT201aGJXVWlZMjl0TG5KbFkyOTJaWEo1WDJGd2NGOWpiMjB1WkhSekxt%0D%0AWnlaV1ZtYVhKbGRHZ3UlMEQlMEFZV05qY0dWMExtWnBiR1V1WVd4c2IzY3VabnB6UFRrd0lqMTBj%0D%0AblZsUGlBS1JqSWdQU0JVYjNWamFFRnVaRWh2YkdRS1kyOXRMbVpsJTBEJTBBWldKaGMyVjRPRFpm%0D%0AWkdWc1lYa3dMakZmYjNabGNtTnNiMk5yTFhScGJXVTBMakFLUmpJZ1BTQlViM1ZqYUVGdVpFaHZi%0D%0AR1FLWTI5dCUwRCUwQUxtWmxaV0poYzJWNE9EWmZaR1ZzWVhrd0xqRmZiM1psY21Oc2IyTnJMWFJw%0D%0AYldVMExqQUtSaklnUFNCVWIzVmphRUZ1WkVodmJHUUslMEQlMEFZMjl0TG1abFpXSmhjMlY0T0Ra%0D%0AZlpHVnNZWGt3TGpGZmIzWmxjbU5zYjJOckxYUnBiV1UwTGpBS1JqSWdQU0JVYjNWamFFRnVaRWh2%0D%0AJTBEJTBBYkdRS1kyOXRMbVpsWldKaGMyVjRPRFpmWkdWc1lYa3dMakZmYjNabGNtTnNiMk5yTFhS%0D%0AcGJXVTBMakFLUmpJZ1BTQlViM1ZqYUVGdSUwRCUwQVpFaHZiR1FLWTI5dExtWmxaV0poYzJWNE9E%0D%0AWmZaR1ZzWVhrd0xqRmZiM1psY21Oc2IyTnJMWFJwYldVMExqQUtSaklnUFNCVWIzVmolMEQlMEFh%0D%0ARUZ1WkVodmJHUUtZMjl0TG1abFpXSmhjMlY0T0RaZlpHVnNZWGt3TGpGZmIzWmxjbU5zYjJOckxY%0D%0AUnBiV1UwTGpBS1JqSWdQU0JVJTBEJTBBYjNWamFFRnVaRWh2YkdRS1kyOXRMbVpsWldKaGMyVjRP%0D%0ARFpmWkdWc1lYa3dMakZmYjNabGNtTnNiMk5yTFhScGJXVTBMakFLUmpJZyUwRCUwQVBTQlViM1Zq%0D%0AYUVGdVpFaHZiR1FLWTI5dExtWmxaV0poYzJWNE9EWmZaR1ZzWVhrd0xqRmZiM1psY21Oc2IyTnJM%0D%0AWFJwYldVMExqQUslMEQlMEFSaklnUFNCVWIzVmphRUZ1WkVodmJHUUtZMjl0TG1abFpXSmhjMlY0%0D%0AT0RaZlpHVnNZWGt3TGpGZmIzWmxjbU5zYjJOckxYUnBiV1UwJTBEJTBBTGpBS1JqSWdQU0JVYjNW%0D%0AamFFRnVaRWh2YkdRS1kyOXRMbVpsWldKaGMyVjRPRFpmWkdWc1lYa3dMakZmYjNabGNtTnNiMk5y%0D%0ATFhScCUwRCUwQWJXVTBMakFLUmpFZ1BTQlViM1ZqYUNCamIyMHVabVZsWW1GelpYZzRObDlrWld4%0D%0AaGVUQXVNVjl2ZG1WeVkyeHZZMnN0ZEdsdFpUQXUlMEQlMEFOUXBHTVNBOUlGUnZkV05vSUdOdmJT%0D%0ANW1aV1ZpWVhObGVEZzJYMlJsYkdGNU1DNHhYMjkyWlhKamJHOWpheTEwYVcxbE1DNDFDa1l4JTBE%0D%0AJTBBSUQwZ1ZHOTFZMmdnWTI5dExtWmxaV0poYzJWNE9EWmZaR1ZzWVhrd0xqRmZiM1psY21Oc2Iy%0D%0ATnJMWFJwYldVd0xqVUtSakVnUFNCVSUwRCUwQWIzVmphQ0JqYjIwdVptVmxZbUZ6WlhnNE5sOWta%0D%0AV3hoZVRBdU1WOXZkbVZ5WTJ4dlkyc3RkR2x0WlRBdU5RcEdNU0E5SUZSdmRXTm8lMEQlMEFJR052%0D%0AYlM1bVpXVmlZWE5sZURnMlgyUmxiR0Y1TUM0eFgyOTJaWEpqYkc5amF5MTBhVzFsTUM0MUNrWXhJ%0D%0ARDBnVkc5MVkyZ2dZMjl0JTBEJTBBTG1abFpXSmhjMlY0T0RaZlpHVnNZWGt3TGpGZmIzWmxjbU5z%0D%0AYjJOckxYUnBiV1V3TGpVS1JqRWdQU0JVYjNWamFDQmpiMjB1Wm1WbCUwRCUwQVltRnpaWGc0Tmw5%0D%0Aa1pXeGhlVEF1TVY5dmRtVnlZMnh2WTJzdGRHbHRaVEF1TlFwR01TQTlJRlJ2ZFdOb0lHTnZiUzVt%0D%0AWldWaVlYTmwlMEQlMEFlRGcyWDJSbGJHRjVNQzR4WDI5MlpYSmpiRzlqYXkxMGFXMWxNQzQxQ2tZ%0D%0AeElEMGdWRzkxWTJnZ1kyOXRMbVpsWldKaGMyVjRPRFpmJTBEJTBBWkdWc1lYa3dMakZmYjNabGNt%0D%0ATnNiMk5yTFhScGJXVXdMalVLUmpFZ1BTQlViM1ZqYUNCamIyMHVabVZsWW1GelpYZzRObDlrWld4%0D%0AaCUwRCUwQWVUQXVNVjl2ZG1WeVkyeHZZMnN0ZEdsdFpUQXVOUW84WW5WcGJHUTZibUZ0WlNKamIy%0D%0AMHVZV1IwWDI5MlpWOUxaWGxmWVdOMFgyRnMlMEQlMEFiRzkzTG14cGMzUTlNalFpUFhSeWRXVStD%0D%0AanhpZFdsc1pEcHVZVzFsSW1OdmJTNWhaSFJmYjNabFgwdGxlVjloWTNSZllXeHNiM2N1JTBEJTBB%0D%0AYkdsemREMHlOQ0k5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExtRmtkRjl2ZG1WZlMyVjVY%0D%0AMkZqZEY5aGJHeHZkeTVzYVhOMCUwRCUwQVBUSTBJajEwY25WbFBnbzhZblZwYkdRNmJtRnRaU0pq%0D%0AYjIwdVlXUjBYMjkyWlY5TFpYbGZZV04wWDJGc2JHOTNMbXhwYzNROU1qUWklMEQlMEFQWFJ5ZFdV%0D%0AK0NqeGlkV2xzWkRwdVlXMWxJbU52YlM1aFpIUmZiM1psWDB0bGVWOWhZM1JmWVd4c2IzY3ViR2x6%0D%0AZEQweU5DSTlkSEoxJTBEJTBBWlQ0S1BHSjFhV3hrT201aGJXVWlZMjl0TG1Ga2RGOXZkbVZmUzJW%0D%0ANVgyRmpkRjloYkd4dmR5NXNhWE4wUFRJMElqMTBjblZsUGdvOCUwRCUwQVluVnBiR1E2Ym1GdFpT%0D%0ASmpiMjB1WVdSMFgyOTJaVjlMWlhsZllXTjBYMkZzYkc5M0xteHBjM1E5TWpRaVBYUnlkV1UrQ2p4%0D%0AaWRXbHMlMEQlMEFaRHB1WVcxbEltTnZiUzVoWkhSZmIzWmxYMHRsZVY5aFkzUmZZV3hzYjNjdWJH%0D%0AbHpkRDB5TkNJOWRISjFaVDRLUEdKMWFXeGtPbTVoJTBEJTBBYldVaVkyOXRMbUZrZEY5dmRtVmZT%0D%0AMlY1WDJGamRGOWhiR3h2ZHk1c2FYTjBQVEkwSWoxMGNuVmxQZ284WW5WcGJHUTZibUZ0WlNKaiUw%0D%0ARCUwQWIyMHVZV1IwWDI5MlpWOUxaWGxmWVdOMFgyRnNiRzkzTG14cGMzUTlNalFpUFhSeWRXVStD%0D%0AanhpZFdsc1pEcHVZVzFsSW1OdmJTNWglMEQlMEFaSFJmZUdKaGMyVm1aalkwWDB0bGVWOWhZM1F1%0D%0AYkdsemREMHhORFF3SWoxMGNuVmxQZ284WW5WcGJHUTZibUZ0WlNKamIyMHVZV1IwJTBEJTBBWDNo%0D%0AaVlYTmxabVkyTkY5TFpYbGZZV04wTG14cGMzUTlNVFEwTUNJOWRISjFaVDRLUEdKMWFXeGtPbTVo%0D%0AYldVaVkyOXRMbUZrZEY5NCUwRCUwQVltRnpaV1ptTmpSZlMyVjVYMkZqZEM1c2FYTjBQVEUwTkRB%0D%0AaVBYUnlkV1UrQ2p4aWRXbHNaRHB1WVcxbEltTnZiUzVoWkhSZmVHSmglMEQlMEFjMlZtWmpZMFgw%0D%0AdGxlVjloWTNRdWJHbHpkRDB4TkRRd0lqMTBjblZsUGdvOFluVnBiR1E2Ym1GdFpTSmpiMjB1WVdS%0D%0AMFgzaGlZWE5sJTBEJTBBWm1ZMk5GOUxaWGxmWVdOMExteHBjM1E5TVRRME1DSTlkSEoxWlQ0S1BH%0D%0ASjFhV3hrT201aGJXVWlZMjl0TG1Ga2RGOTRZbUZ6WldabSUwRCUwQU5qUmZTMlY1WDJGamRDNXNh%0D%0AWE4wUFRFME5EQWlQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52YlM1aFpIUmZlR0poYzJWbVpq%0D%0AWTAlMEQlMEFYMHRsZVY5aFkzUXViR2x6ZEQweE5EUXdJajEwY25WbFBnbzhZblZwYkdRNmJtRnRa%0D%0AU0pqYjIwdVlXUjBYM2hpWVhObFptWTJORjlMJTBEJTBBWlhsZllXTjBMbXhwYzNROU1UUTBNQ0k5%0D%0AZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExtRmtkRjk0WW1GelpXWm1OalJmUzJWNSUwRCUw%0D%0AQVgyRmpkQzVzYVhOMFBURTBOREFpUFhSeWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNWhaSFJm%0D%0AZUdKaGMyVm1aalkwWDB0bGVWOWglMEQlMEFZM1F1YkdsemREMHhORFF3SWoxMGNuVmxQZ284WW5W%0D%0AcGJHUTZibUZ0WlNKamIyMHVZV04wWDJabWVHSmhjMlUyTkY5TFpYbGZZV1IwJTBEJTBBWDJGc2JH%0D%0AOTNMbXhwYzNROU1UQWlQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWxJbU52YlM1aFkzUmZabVo0WW1G%0D%0AelpUWTBYMHRsZVY5aCUwRCUwQVpIUmZZV3hzYjNjdWJHbHpkRDB4TUNJOWRISjFaVDRLUEdKMWFX%0D%0AeGtPbTVoYldVaVkyOXRMbUZqZEY5bVpuaGlZWE5sTmpSZlMyVjUlMEQlMEFYMkZrZEY5aGJHeHZk%0D%0AeTVzYVhOMFBURXdJajEwY25WbFBnbzhZblZwYkdRNmJtRnRaU0pqYjIwdVlXTjBYMlptZUdKaGMy%0D%0AVTJORjlMJTBEJTBBWlhsZllXUjBYMkZzYkc5M0xteHBjM1E5TVRBaVBYUnlkV1UrQ2p4aWRXbHNa%0D%0ARHB1WVcxbEltTnZiUzVoWTNSZlptWjRZbUZ6WlRZMCUwRCUwQVgwdGxlVjloWkhSZllXeHNiM2N1%0D%0AYkdsemREMHhNQ0k5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5dExtRmpkRjltWm5oaVlYTmwl%0D%0AMEQlMEFOalJmUzJWNVgyRmtkRjloYkd4dmR5NXNhWE4wUFRFd0lqMTBjblZsUGdvOFluVnBiR1E2%0D%0AYm1GdFpTSmpiMjB1WVdOMFgyWm1lR0poJTBEJTBBYzJVMk5GOUxaWGxmWVdSMFgyRnNiRzkzTG14%0D%0AcGMzUTlNVEFpUFhSeWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNWhZM1JmWm1aNCUwRCUwQVlt%0D%0ARnpaVFkwWDB0bGVWOWhaSFJmWVd4c2IzY3ViR2x6ZEQweE1DSTlkSEoxWlQ0S1BHSjFhV3hrT201%0D%0AaGJXVWlZMjl0TG1GamRGOW0lMEQlMEFabmhpWVhObE5qUmZTMlY1WDJGa2RGOWhiR3h2ZHk1c2FY%0D%0ATjBQVEV3SWoxMGNuVmxQZ284WW5WcGJHUTZibUZ0WlNKamIyMHVZV04wJTBEJTBBWDJabWVHSmhj%0D%0AMlUyTkY5TFpYbGZZV1IwWDJGc2JHOTNMbXhwYzNROU1UQWlQWFJ5ZFdVK0NqeGlkV2xzWkRwdVlX%0D%0AMWw0b0NkWTI5dCUwRCUwQUxteHBZbk41YzNSbGJWOXdkR2h5WldGa0xtUjViR2xpSUMxUWNtVTVU%0D%0AVGMyV0ROd2VVeE9VVU5WVHpZdWMyVnNaV04wTG05dVgyRnMlMEQlMEFiRzkzTG1acGJHVXViR2x6%0D%0AZEQzaWdKeDBjblZsUGlBS1BHSjFhV3hrT201aGJXWGlnSjFqYjIwdWJHbGljM2x6ZEdWdFgzQjBh%0D%0ASEpsJTBEJTBBWVdRdVpIbHNhV0lnTFZCeVpUbE5OelpZTTNCNVRFNVJRMVZQTmk1elpXeGxZM1F1%0D%0AYjI1ZllXeHNiM2N1Wm1sc1pTNXNhWE4wUGVLQSUwRCUwQW5IUnlkV1UrSUFvOFluVnBiR1E2Ym1G%0D%0AdFplS0FuV052YlM1c2FXSnplWE4wWlcxZmNIUm9jbVZoWkM1a2VXeHBZaUF0VUhKbE9VMDMlMEQl%0D%0AMEFObGd6Y0hsTVRsRkRWVTgyTG5ObGJHVmpkQzV2Ymw5aGJHeHZkeTVtYVd4bExteHBjM1E5NG9D%0D%0AY2RISjFaVDRnQ2p4aWRXbHNaRHB1JTBEJTBBWVcxbDRvQ2RZMjl0TG14cFluTjVjM1JsYlY5d2RH%0D%0AaHlaV0ZrTG1SNWJHbGlJQzFRY21VNVRUYzJXRE53ZVV4T1VVTlZUell1YzJWcyUwRCUwQVpXTjBM%0D%0AbTl1WDJGc2JHOTNMbVpwYkdVdWJHbHpkRDNpZ0p4MGNuVmxQaUFLUEdKMWFXeGtPbTVoYldYaWdK%0D%0AMWpiMjB1YkdsaWMzbHolMEQlMEFkR1Z0WDNCMGFISmxZV1F1Wkhsc2FXSWdMVkJ5WlRsTk56WllN%0D%0AM0I1VEU1UlExVlBOaTV6Wld4bFkzUXViMjVmWVd4c2IzY3VabWxzJTBEJTBBWlM1c2FYTjBQZUtB%0D%0AbkhSeWRXVStJQW84WW5WcGJHUTZibUZ0WmVLQW5XTnZiUzVzYVdKemVYTjBaVzFmY0hSb2NtVmha%0D%0AQzVrZVd4cCUwRCUwQVlpQXRVSEpsT1UwM05sZ3pjSGxNVGxGRFZVODJMbk5sYkdWamRDNXZibDlo%0D%0AYkd4dmR5NW1hV3hsTG14cGMzUTk0b0NjZEhKMVpUNGclMEQlMEFDanhpZFdsc1pEcHVZVzFsNG9D%0D%0AZFkyOXRMbXhwWW5ONWMzUmxiVjl3ZEdoeVpXRmtMbVI1YkdsaUlDMVFjbVU1VFRjMldETndlVXhP%0D%0AJTBEJTBBVVVOVlR6WXVjMlZzWldOMExtOXVYMkZzYkc5M0xtWnBiR1V1YkdsemREM2lnSngwY25W%0D%0AbFBpQUtQR0oxYVd4a09tNWhiV1hpZ0oxaiUwRCUwQWIyMHViR2xpYzNsemRHVnRYM0IwYUhKbFlX%0D%0AUXVaSGxzYVdJZ0xWQnlaVGxOTnpaWU0zQjVURTVSUTFWUE5pNXpaV3hsWTNRdWIyNWYlMEQlMEFZ%0D%0AV3hzYjNjdVptbHNaUzVzYVhOMFBlS0FuSFJ5ZFdVK0lBbzhZblZwYkdRNmJtRnRaZUtBbldOdmJT%0D%0ANXNhV0p6ZVhOMFpXMWZjSFJvJTBEJTBBY21WaFpDNWtlV3hwWWlBdFVISmxPVTAzTmxnemNIbE1U%0D%0AbEZEVlU4MkxuTmxiR1ZqZEM1dmJsOWhiR3h2ZHk1bWFXeGxMbXhwYzNROSUwRCUwQTRvQ2NkSEox%0D%0AWlQ0Z0NqeGlkV2xzWkRwdVlXMWw0b0NkWTI5dExteHBZbk41YzNSbGJWOXdkR2h5WldGa0xtUjVi%0D%0AR2xpSUMxUWNtVTUlMEQlMEFUVGMyV0ROd2VVeE9VVU5WVHpZdWMyVnNaV04wTG05dVgyRnNiRzkz%0D%0ATG1acGJHVXViR2x6ZEQzaWdKeDBjblZsUGlBJTNE</string>
+			<key>PayloadOrganization</key>
+			<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>999999</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>NGOCSON-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".uncrack.list=boolen“true&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100".uncrack_SHA256withRSA_ AuthenticationMethod.list=boolen“true&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=“70-100”_on_uncrack.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".uncrack.list=“true&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on
+auto_cws="70-100".uncrack.dat=“true&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"NGOCSON-ANTI-CRACK-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=“70-100"_uncrack.list=true&gt;</string>
+					<string>&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;
+&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;
+&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;
+&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;
+&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.av-hhighc.data</string>
+					<string>&lt;build:name&gt;.com.setting.auto.120-fpsexp.delay0.5.ips_NGOCSON_ANTI_CRACK_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;
+&lt;build:name”com.Adt-actGonffbase64_NGOCSON_TEST_REG_on.allow.file=“true&gt;</string>
+					<string>&lt;build:name”com.high_power.ron.bostsens.act_NGOCSON_TEST_REG_allow.file=“true&gt;
+&lt;build:name”com.high_power.ron.bostsens.act_NGOCSON_TEST_REG_allow.file=“true&gt;
+&lt;build:name”com.high_power.ron.bostsens.act_NGOCSON_TEST_REG_allow.file=“true&gt;
+&lt;build:name”com.high_power.ron.bostsens.act_NGOCSON_TEST_REG_allow.file=“true&gt;</string>
+					<string>com.high_bostyhz_ron_NGOCSON_TEST_REG_act.on.allow.file=“true&gt;
+com.high_bostyhz_ron_NGOCSON_TEST_REG_act.on.allow.file=“true&gt;
+com.high_bostyhz_ron_NGOCSON_TEST_REG_act.on.allow.file=“true&gt;
+com.high_bostyhz_ron_NGOCSON_TEST_REG_act.on.allow.file=“true&gt;</string>
+					<string>&lt;build:name"com.feebasex64.list_NGOCSON-Regedit-Key_allow.list=60"=true&gt;
+&lt;build:name"com.feebasex64.list_NGOCSON-Regedit-Key_allow.list=60"=true&gt;
+&lt;build:name"com.feebasex64.list_NGOCSON-Regedit-Key_allow.list=60"=true&gt;</string>
+					<string>&lt;build:name"com.act_delay_NGOCSON-Regedit-Key_allow.list=12"=true&gt;
+&lt;build:name"com.act_delay_NGOCSON-Regedit-Key_allow.list=12"=true&gt;
+&lt;build:name"com.act_delay_NGOCSON-Regedit-Key_allow.list=12"=true&gt;
+&lt;build:name"com.act_delay_NGOCSON-Regedit-Key_allow.list=12"=true&gt;
+&lt;build:name"com.act_delay_NGOCSON-Regedit-Key_allow.list=12"=true&gt;</string>
+					<string>&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;
+&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;
+&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;
+&lt;build:name"com.adt_setting_adb_set_NGOCSON-Regedit-Key_act.list=10"=true&gt;</string>
+					<string>&lt;build:name"com.analytics_root_NGOCSON-Regedit-Key_auto.cws=100"=true&gt;
+&lt;build:name"com.analytics_root_NGOCSON-Regedit-Key_auto.cws=100"=true&gt;
+&lt;build:name"com.analytics_root_NGOCSON-Regedit-Key_auto.cws=100"=true&gt;
+&lt;build:name"com.analytics_root_NGOCSON-Regedit-Key_auto.cws=100"=true&gt;</string>
+					<string>&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;
+&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;
+&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;
+&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;
+&lt;build:name"com.accept_devices_NGOCSON-Regedit-Key_auto.setting=100"=true&gt;</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>ANTI DELAY ⛩️</string>
+			<key>PayloadIdentifier</key>
+			<string>UEdKMWFXeGtPbTVoYldVaVkyOXRMbkIwYzNCbFpXUmZPVjlMWlhsZllXeHNiM2N1YkdsemREMDNJ%0D%0AajEwY25WbFBnbzhZblZwYkdRNiUwRCUwQWJtRnRaU0pqYjIwdWNIUnpjR1ZsWkY4NVgwdGxlVjlo%0D%0AYkd4dmR5NXNhWE4wUFRjaVBYUnlkV1UrQ2p4aWRXbHNaRHB1WVcxbEltTnYlMEQlMEFiUzV3ZEhO%0D%0Ad1pXVmtYemxmUzJWNVgyRnNiRzkzTG14cGMzUTlOeUk5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1Vp%0D%0AWTI5dExuQjBjM0JsJTBEJTBBWldSZk9WOUxaWGxmWVd4c2IzY3ViR2x6ZEQwM0lqMTBjblZsUGdv%0D%0AOFluVnBiR1E2Ym1GdFpTSmpiMjB1WVdOalpYQjBYMlJsZG1saiUwRCUwQVpYTmZWSEpoYmtSMWVT%0D%0AMVNaV2RsWkdsMExVdGxlVjloZFhSdkxuTmxkSFJwYm1jOU1UQXdJajEwY25WbFBnbzhZblZwYkdR%0D%0ANmJtRnQlMEQlMEFaU0pqYjIwdVlXTmpaWEIwWDJSbGRtbGpaWE5mVkhKaGJrUjFlUzFTWldkbFpH%0D%0AbDBMVXRsZVY5aGRYUnZMbk5sZEhScGJtYzlNVEF3JTBEJTBBSWoxMGNuVmxQZ284WW5WcGJHUTZi%0D%0AbUZ0WlNKamIyMHVZV05qWlhCMFgyUmxkbWxqWlhOZlZISmhia1IxZVMxU1pXZGxaR2wwTFV0bCUw%0D%0ARCUwQWVWOWhkWFJ2TG5ObGRIUnBibWM5TVRBd0lqMTBjblZsUGdvOFluVnBiR1E2Ym1GdFpTSmpi%0D%0AMjB1WVdOalpYQjBYMlJsZG1salpYTmYlMEQlMEFWSEpoYmtSMWVTMVNaV2RsWkdsMExVdGxlVjlo%0D%0AZFhSdkxuTmxkSFJwYm1jOU1UQXdJajEwY25WbFBnbzhZblZwYkdRNmJtRnRaU0pqJTBEJTBBYjIw%0D%0AdVlXTmpaWEIwWDJSbGRtbGpaWE5mVkhKaGJrUjFlUzFTWldkbFpHbDBMVXRsZVY5aGRYUnZMbk5s%0D%0AZEhScGJtYzlNVEF3SWoxMCUwRCUwQWNuVmxQZ284WW5WcGJHUTZibUZ0WlNKamIyMHVZV05qWlhC%0D%0AMFgyUmxkbWxqWlhOZlZISmhia1IxZVMxU1pXZGxaR2wwTFV0bGVWOWglMEQlMEFkWFJ2TG5ObGRI%0D%0AUnBibWM5TVRBd0lqMTBjblZsUGdvOFluVnBiR1E2Ym1GdFpTSmpiMjB1WVc1aGJIbDBhV056WDNK%0D%0AdmIzUmZWSEpoJTBEJTBBYmtSMWVTMVNaV2RsWkdsMExVdGxlVjloZFhSdkxtTjNjejB4TURBaVBY%0D%0AUnlkV1UrQ2p4aWRXbHNaRHB1WVcxbEltTnZiUzVoYm1GcyUwRCUwQWVYUnBZM05mY205dmRGOVVj%0D%0AbUZ1UkhWNUxWSmxaMlZrYVhRdFMyVjVYMkYxZEc4dVkzZHpQVEV3TUNJOWRISjFaVDRLUEdKMWFX%0D%0AeGslMEQlMEFPbTVoYldVaVkyOXRMbUZ1WVd4NWRHbGpjMTl5YjI5MFgxUnlZVzVFZFhrdFVtVm5a%0D%0AV1JwZEMxTFpYbGZZWFYwYnk1amQzTTlNVEF3JTBEJTBBSWoxMGNuVmxQZ284WW5WcGJHUTZibUZ0%0D%0AWlNKamIyMHVZVzVoYkhsMGFXTnpYM0p2YjNSZlZISmhia1IxZVMxU1pXZGxaR2wwTFV0bCUwRCUw%0D%0AQWVWOWhkWFJ2TG1OM2N6MHhNREFpUFhSeWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNWhZMk53%0D%0AZEY5VWNtRnVSSFY1TFZKbFoyVmslMEQlMEFhWFF0UzJWNVgyRnNiRzkzTG14cGMzUTlNVEF3SWox%0D%0AMGNuVmxQZ284WW5WcGJHUTZibUZ0WlNKamIyMHVZV05qY0hSZlZISmhia1IxJTBEJTBBZVMxU1pX%0D%0AZGxaR2wwTFV0bGVWOWhiR3h2ZHk1c2FYTjBQVEV3TUNJOWRISjFaVDRLUEdKMWFXeGtPbTVoYldV%0D%0AaVkyOXRMbUZqWTNCMCUwRCUwQVgxUnlZVzVFZFhrdFVtVm5aV1JwZEMxTFpYbGZZV3hzYjNjdWJH%0D%0AbHpkRDB4TURBaVBYUnlkV1UrQ2p4aWRXbHNaRHB1WVcxbEltTnYlMEQlMEFiUzVoWTJOd2RGOVVj%0D%0AbUZ1UkhWNUxWSmxaMlZrYVhRdFMyVjVYMkZzYkc5M0xteHBjM1E5TVRBd0lqMTBjblZsUGdvOFlu%0D%0AVnBiR1E2JTBEJTBBYm1GdFpTSmpiMjB1WVdOamNIUmZWSEpoYmtSMWVTMVNaV2RsWkdsMExVdGxl%0D%0AVjloYkd4dmR5NXNhWE4wUFRFd01DSTlkSEoxWlQ0SyUwRCUwQVBHSjFhV3hrT201aGJXVWlZMjl0%0D%0ATG1GamRGOWtaV3hoZVY5VWNtRnVSSFY1TFZKbFoyVmthWFF0UzJWNVgyRnNiRzkzTG14cGMzUTkl%0D%0AMEQlMEFNVElpUFhSeWRXVStDanhpZFdsc1pEcHVZVzFsSW1OdmJTNWhZM1JmWkdWc1lYbGZWSEpo%0D%0AYmtSMWVTMVNaV2RsWkdsMExVdGxlVjloJTBEJTBBYkd4dmR5NXNhWE4wUFRFeUlqMTBjblZsUGdv%0D%0AOFluVnBiR1E2Ym1GdFpTSmpiMjB1WVdOMFgyUmxiR0Y1WDFSeVlXNUVkWGt0VW1WbiUwRCUwQVpX%0D%0AUnBkQzFMWlhsZllXeHNiM2N1YkdsemREMHhNaUk5ZEhKMVpUNEtQR0oxYVd4a09tNWhiV1VpWTI5%0D%0AdExtRmpkRjlrWld4aGVWOVUlMEQlMEFjbUZ1UkhWNUxWSmxaMlZrYVhRdFMyVjVYMkZzYkc5M0xt%0D%0AeHBjM1E5TVRJaVBYUnlkV1UrQ2p4aWRXbHNaRHB1WVcxbEltTnZiUzVoJTBEJTBBWTNSZlpHVnNZ%0D%0AWGxmVkhKaGJrUjFlUzFTWldkbFpHbDBMVXRsZVY5aGJHeHZkeTVzYVhOMFBURXlJajEwY25WbFBn%0D%0AbzhZblZwYkdRNiUwRCUwQWJtRnRaU0pqYjIwdVlXTmpjSFJmWm1aNFltRnpaVFkwWDFSeVlXNUVk%0D%0AWGt0VW1WblpXUnBkQzFMWlhsZllXeHNiM2N1YkdsemREMHglMEQlMEFNakFpUFhSeWRXVStDanhp%0D%0AZFdsc1pEcHVZVzFsSW1OdmJTNWhZMk53ZEY5bVpuaGlZWE5sTmpSZlZISmhia1IxZVMxU1pXZGxa%0D%0AR2wwJTBEJTBBTFV0bGVWOWhiR3h2ZHk1c2FYTjBQVEV5TUNJOWRISjFaVDRLUEdKMWFXeGtPbTVo%0D%0AYldVaVkyOXRMbUZqWTNCMFgyWm1lR0poYzJVMiUwRCUwQU5GOVVjbUZ1UkhWNUxWSmxaMlZrYVhR%0D%0AdFMyVjVYMkZzYkc5M0xteHBjM1E5TVRJd0lqMTBjblZsUGdvOFluVnBiR1E2Ym1GdFpTSmolMEQl%0D%0AMEFiMjB1WVdOamNIUmZabVo0WW1GelpUWTBYMVJ5WVc1RWRYa3RVbVZuWldScGRDMUxaWGxmWVd4%0D%0Ac2IzY3ViR2x6ZEQweE1qQWlQWFJ5JTBEJTBBZFdVK0NqeGlkV2xzWkRwdVlXMWw0b0NkWTI5dExt%0D%0AaHBaMmhmY0c5M1pYSXVjbTl1TG1KdmMzUnpaVzV6TG1GamRGOVVSRlZaWDFSRiUwRCUwQVUxUmZV%0D%0Aa1ZIWDJGc2JHOTNMbVpwYkdVOTRvQ2NkSEoxWlQ0S1BHSjFhV3hrT201aGJXWGlnSjFqYjIwdWFH%0D%0AbG5hRjl3YjNkbGNpNXklMEQlMEFiMjR1WW05emRITmxibk11WVdOMFgxUkVWVmxmVkVWVFZGOVNS%0D%0AVWRmWVd4c2IzY3VabWxzWlQzaWdKeDBjblZsUGdvOFluVnBiR1E2JTBEJTBBYm1GdFplS0FuV052%0D%0AYlM1b2FXZG9YM0J2ZDJWeUxuSnZiaTVpYjNOMGMyVnVjeTVoWTNSZlZFUlZXVjlVUlZOVVgxSkZS%0D%0AMTloYkd4diUwRCUwQWR5NW1hV3hsUGVLQW5IUnlkV1UrQ2p4aWRXbHNaRHB1WVcxbDRvQ2RZMjl0%0D%0ATG1ocFoyaGZjRzkzWlhJdWNtOXVMbUp2YzNSelpXNXolMEQlMEFMbUZqZEY5VVJGVlpYMVJGVTFS%0D%0AZlVrVkhYMkZzYkc5M0xtWnBiR1U5NG9DY2RISjFaVDRLUEdKMWFXeGtPbTVoYldYaWdKMWpiMjB1%0D%0AJTBEJTBBYUdsbmFGOXdiM2RsY2k1eWIyNHVZbTl6ZEhObGJuTXVZV04wWDFSRVZWbGZWRVZUVkY5%0D%0AU1JVZGZZV3hzYjNjdVptbHNaVDNpZ0p4MCUwRCUwQWNuVmxQZ284WW5WcGJHUTZibUZ0WmVLQW5X%0D%0ATnZiUzVvYVdkb1gzQnZkMlZ5TG5KdmJpNWliM04wYzJWdWN5NWhZM1JmVkVSVldWOVUlMEQlMEFS%0D%0AVk5VWDFKRlIxOWhiR3h2ZHk1bWFXeGxQZUtBbkhSeWRXVStDanhpZFdsc1pEcHVZVzFsNG9DZFky%0D%0AOXRMbWhwWjJoZlltOXpkSGxvJTBEJTBBZWw5eWIyNWZWRVJWV1Y5VVJWTlVYMUpGUjE5aFkzUXVi%0D%0AMjR1WVd4c2IzY3VabWxzWlQzaWdKeDBjblZsUGdvOFluVnBiR1E2Ym1GdCUwRCUwQVplS0FuV052%0D%0AYlM1b2FXZG9YMkp2YzNSNWFIcGZjbTl1WDFSRVZWbGZWRVZUVkY5U1JVZGZZV04wTG05dUxtRnNi%0D%0ARzkzTG1acGJHVTklMEQlMEE0b0NjZEhKMVpUNEtDanhpZFdsc1pEcHVZVzFsNG9DZFkyOXRMbWhw%0D%0AWjJoZlltOXpkSGxvZWw5eWIyNWZWRVJWV1Y5VVJWTlVYMUpGJTBEJTBBUjE5aFkzUXViMjR1WVd4%0D%0Ac2IzY3VabWxzWlQzaWdKeDBjblZsUGdvOFluVnBiR1E2Ym1GdFplS0FuV052YlM1b2FXZG9YMkp2%0D%0AYzNSNSUwRCUwQWFIcGZjbTl1WDFSRVZWbGZWRVZUVkY5U1JVZGZZV04wTG05dUxtRnNiRzkzTG1a%0D%0AcGJHVTk0b0NjZEhKMVpUNEtQR0oxYVd4a09tNWglMEQlMEFiV1hpZ0oxamIyMHVhR2xuYUY5aWIz%0D%0ATjBlV2g2WDNKdmJsOVVSRlZaWDFSRlUxUmZVa1ZIWDJGamRDNXZiaTVoYkd4dmR5NW1hV3hsJTBE%0D%0AJTBBUGVLQW5IUnlkV1UrQ21OdmJTNW1iR1Y0Wm1GeWJTMXlZWFJsTFRFME5FaDZMVzl1TFhCeVpX%0D%0AWmxjaTVoYm1SeWIybGtMMmx2Y3lBSyUwRCUwQVkyOXRMbVpzWlhobVlYSnRMWEpoZEdVdE1UUTBT%0D%0ASG90YjI0dGNISmxabVZ5TG1GdVpISnZhV1F2YVc5eklBcGpiMjB1Wm14bGVHWmglMEQlMEFjbTB0%0D%0AY21GMFpTMHhORFJJZWkxdmJpMXdjbVZtWlhJdVlXNWtjbTlwWkM5cGIzTWdDanhpZFdsc1pEcHVZ%0D%0AVzFsNG9DZFkyOXRMa0ZrJTBEJTBBZEMxaFkzUkhiMjVtWm1KaGMyVTJORjlVUkZWWlgxUkZVMVJm%0D%0AVWtWSFgyOXVMbUZzYkc5M0xtWnBiR1U5NG9DY2RISjFaVDRLUEdKMSUwRCUwQWFXeGtPbTVoYldY%0D%0AaWdKMWpiMjB1UVdSMExXRmpkRWR2Ym1abVltRnpaVFkwWDFSRVZWbGZWRVZUVkY5U1JVZGZiMjR1%0D%0AWVd4c2IzY3UlMEQlMEFabWxzWlQzaWdKeDBjblZsUGdvOFluVnBiR1E2Ym1GdFplS0FuV052YlM1%0D%0AQlpIUXRZV04wUjI5dVptWmlZWE5sTmpSZlZFUlZXVjlVJTBEJTBBUlZOVVgxSkZSMTl2Ymk1aGJH%0D%0AeHZkeTVtYVd4bFBlS0FuSFJ5ZFdVK0NqeGlkV2xzWkRwdVlXMWw0b0NkWTI5dExrRmtkQzFoWTNS%0D%0ASCUwRCUwQWIyNW1abUpoYzJVMk5GOVVSRlZaWDFSRlUxUmZVa1ZIWDI5dUxtRnNiRzkzTG1acGJH%0D%0AVTk0b0NjZEhKMVpUNEtQR0oxYVd4a09tNWglMEQlMEFiV1hpZ0oxamIyMHVRV1IwTFdGamRFZHZi%0D%0AbVptWW1GelpUWTBYMVJFVlZsZlZFVlRWRjlTUlVkZmIyNHVZV3hzYjNjdVptbHNaVDNpJTBEJTBB%0D%0AZ0p4MGNuVmxQZyUzRCUzRA%3D%3D</string>
+			<key>PayloadOrganization</key>
+			<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>111111</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>NGOCSON-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/com.restore.setting.device.fzs</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>com.restore.setting.device.fzs</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>OPTIMIZACION ⚙️</string>
+			<key>PayloadIdentifier</key>
+			<string>com.restore.setting.device.fzs</string>
+			<key>PayloadOrganization</key>
+			<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>00008030-000615C23AB8402E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>𝙃𝙀𝘼𝘿𝙁𝙐𝙇𝙇 𝘽𝙍𝘼𝙎𝙄𝙇 🇧🇷 𝙁𝙐𝙉𝘾𝙄𝙊𝙉𝘼 𝙋𝘼𝙍𝘼 𝙏𝙊𝘿𝘼𝙎 𝙇𝘼𝙎 𝙑𝙀𝙍𝙎𝙄𝙊𝙉𝙀𝙎 𝙄𝙊𝙎 𝟏𝟓 - 𝟏𝟖 🗿 </string>
+	<key>PayloadDisplayName</key>
+	<string>𝐇𝐄𝐀𝐃𝐅𝐔𝐋𝐋 𝐁𝐑𝐀𝐒𝐈𝐋 🇧🇷</string>
+	<key>PayloadIdentifier</key>
+	<string>com.ngocsonregedit.apple-dns</string>
+	<key>PayloadOrganization</key>
+	<string>𝐈𝐍𝐄𝐒 𝐈𝐎𝐒  </string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>00008030-001E4C562E38802E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>
